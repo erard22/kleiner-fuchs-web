@@ -33,12 +33,12 @@ jobs:
         run: JEKYLL_ENV=production bundle exec jekyll build
 
       - name: FTP Deploy
-        uses: SamKirkland/FTP-Deploy-Action@4.3.1
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
         with:
+          username: ${{ secrets.FTP_USERNAME }}
           server: ${{ secrets.FTP_SERVER }}
           port: ${{ secrets.FTP_PORT }}
-          protocol: ftps
-          username: ${{ secrets.FTP_USERNAME }}
+          local_path: './_site/*'
+          sftp_only: true
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: _site/
 
