@@ -40,5 +40,5 @@ jobs:
           protocol: ftps
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./.site/
+          local-dir: _site/
 
