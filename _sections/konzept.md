@@ -32,6 +32,12 @@ order: 2
       <h3>Geld sofort erhalten</h3>
     </div>
   </div>
+
+  <div class="row justify-content-md-center">
+    <div class="col-md-auto" style="padding-top: 5em">
+      <p>Die AGBs sind aktuell am entstehen und werden nächstens hier auf der Homepage aufgeschaltet</p>
+    </div>
+  </div>
 </div>
 
 
