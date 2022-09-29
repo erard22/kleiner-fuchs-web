@@ -83,6 +83,27 @@ h6 {
   }
 }
 
+.quote-icon-left,
+.quote-icon-right {
+  color: var(--color-secondary);
+  font-size: 26px;
+  line-height: 0;
+}
+
+.quote-icon-left {
+  display: inline-block;
+  left: -5px;
+  position: relative;
+}
+
+.quote-icon-right {
+  display: inline-block;
+  right: -5px;
+  position: relative;
+  top: 10px;
+  transform: scale(-1, -1);
+}
+
 /*--------------------------------------------------------------
 # Sections & Section Header
 --------------------------------------------------------------*/
@@ -1213,9 +1234,9 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Chefs Section
+# Team Section
 --------------------------------------------------------------*/
-.chefs .chef-member {
+.team .team-member {
   overflow: hidden;
   text-align: center;
   border-radius: 5px;
@@ -1224,12 +1245,12 @@ section {
   transition: 0.3s;
 }
 
-.chefs .chef-member .member-img {
+.team .team-member .team-member-img {
   position: relative;
   overflow: hidden;
 }
 
-.chefs .chef-member .member-img:after {
+.team .team-member .team-member-img:after {
   position: absolute;
   content: "";
   left: 0;
@@ -1241,18 +1262,18 @@ section {
   z-index: 1;
 }
 
-.chefs .chef-member .social {
+.team .team-member .social {
   position: absolute;
   right: -100%;
   top: 30px;
   opacity: 0;
   border-radius: 4px;
   transition: 0.5s;
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.6);
   z-index: 2;
 }
 
-.chefs .chef-member .social a {
+.team .team-member .social a {
   transition: color 0.3s;
   color: rgba(55, 55, 63, 0.4);
   margin: 15px 12px;
@@ -1261,166 +1282,48 @@ section {
   text-align: center;
 }
 
-.chefs .chef-member .social a:hover {
-  color: rgba(55, 55, 63, 0.9);
+.team .team-member .social a:hover {
+  color: var(--color-primary);
 }
 
-.chefs .chef-member .social i {
+.team .team-member .social i {
   font-size: 18px;
 }
 
-.chefs .chef-member .member-info {
+.team .team-member .team-member-info {
   padding: 10px 15px 20px 15px;
 }
 
-.chefs .chef-member .member-info h4 {
+.team .team-member .team-member-info h4 {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
   color: var(--color-secondary);
 }
 
-.chefs .chef-member .member-info span {
+.team .team-member .team-member-info span {
   display: block;
   font-size: 14px;
   font-weight: 400;
   color: rgba(33, 37, 41, 0.4);
 }
 
-.chefs .chef-member .member-info p {
+.team .team-member .team-member-quote {
   font-style: italic;
-  font-size: 14px;
+  font-size: 16px;
   padding-top: 15px;
   line-height: 26px;
   color: rgba(33, 37, 41, 0.7);
 }
 
-.chefs .chef-member:hover {
+.team .team-member:hover {
   transform: scale(1.08);
   box-shadow: 0px 0 30px rgba(55, 55, 63, 0.15);
 }
 
-.chefs .chef-member:hover .social {
+.team .team-member:hover .social {
   right: 8px;
   opacity: 1;
-}
-
-/*--------------------------------------------------------------
-# Book A Table Section
---------------------------------------------------------------*/
-.book-a-table .reservation-img {
-  min-height: 500px;
-  background-size: cover;
-  background-position: center;
-}
-
-.book-a-table .reservation-form-bg {
-  background: rgba(55, 55, 63, 0.04);
-}
-
-.book-a-table .php-email-form {
-  padding: 40px;
-}
-
-@media (max-width: 575px) {
-  .book-a-table .php-email-form {
-    padding: 20px;
-  }
-}
-
-.book-a-table .php-email-form h3 {
-  font-size: 14px;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-
-.book-a-table .php-email-form h4 {
-  font-size: 14px;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  margin: 20px 0 0 0;
-}
-
-.book-a-table .php-email-form p {
-  font-size: 14px;
-  margin-bottom: 20px;
-}
-
-.book-a-table .php-email-form .error-message {
-  display: none;
-  color: #fff;
-  background: #df1529;
-  text-align: left;
-  padding: 15px;
-  margin-bottom: 24px;
-  font-weight: 600;
-}
-
-.book-a-table .php-email-form .sent-message {
-  display: none;
-  color: #fff;
-  background: #059652;
-  text-align: center;
-  padding: 15px;
-  margin-bottom: 24px;
-  font-weight: 600;
-}
-
-.book-a-table .php-email-form .loading {
-  display: none;
-  background: #fff;
-  text-align: center;
-  padding: 15px;
-  margin-bottom: 24px;
-}
-
-.book-a-table .php-email-form .loading:before {
-  content: "";
-  display: inline-block;
-  border-radius: 50%;
-  width: 24px;
-  height: 24px;
-  margin: 0 10px -6px 0;
-  border: 3px solid #059652;
-  border-top-color: #fff;
-  -webkit-animation: animate-loading 1s linear infinite;
-  animation: animate-loading 1s linear infinite;
-}
-
-.book-a-table .php-email-form input,
-.book-a-table .php-email-form textarea {
-  border-radius: 0;
-  box-shadow: none;
-  font-size: 14px;
-  border-radius: 0;
-}
-
-.book-a-table .php-email-form input:focus,
-.book-a-table .php-email-form textarea:focus {
-  border-color: var(--color-primary);
-}
-
-.book-a-table .php-email-form input {
-  padding: 12px 15px;
-}
-
-.book-a-table .php-email-form textarea {
-  padding: 12px 15px;
-}
-
-.book-a-table .php-email-form button[type=submit] {
-  background: var(--color-primary);
-  border: 0;
-  padding: 14px 60px;
-  color: #fff;
-  transition: 0.4s;
-  border-radius: 50px;
-}
-
-.book-a-table .php-email-form button[type=submit]:hover {
-  background: #ec2727;
 }
 
 @-webkit-keyframes animate-loading {
