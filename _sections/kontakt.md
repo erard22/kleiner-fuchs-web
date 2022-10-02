@@ -55,6 +55,8 @@ order: 5
 
   </div>
 
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
 <form action="https://formkeep.com/f/ea741f9c0375"
    accept-charset="UTF-8" enctype="multipart/form-data" method="POST" class="php-email-form p-3 p-md-4">
     <div class="row">
@@ -76,6 +78,7 @@ order: 5
       <div class="error-message"></div>
       <div class="sent-message">Deine Nachricht wurde übermittelt. Merci!</div>
     </div>
+    <div class="g-recaptcha" data-sitekey="6Ld1lkwiAAAAAHNTiSoDf3qYDAtShMv9PoRE8F6H"></div>
     <div class="text-center"><button type="submit">Abschicken</button></div>
     <input type="hidden" name="utf8" value="✓">
   </form>
