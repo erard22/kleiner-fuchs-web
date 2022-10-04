@@ -1,7 +1,7 @@
 {% assign sections = site.sections | sort: 'order' %}
 {% for section in sections %}
 {% assign remainder = forloop.index | modulo: 2 %}
-<section id="{{ section.selector }}" class="{{ section.selector }} {% if remainder == 0 %} section-bg{% endif %}">
+<section id="{{ section.selector }}" class="{{ section.selector }}{% if remainder == 0 %} section-bg{% endif %}">
     <div class="container">
         <div class="section-header">
             <h2>{{ section.header }}</h2>

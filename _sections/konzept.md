@@ -9,34 +9,18 @@ order: 2
 <div class="container text-center">
   
   <div class="row justify-content-md-center">
-    <div class="col-md-auto arrow">
-      <h3>Ware abgeben</h3>
-    </div>
-  </div>
-
-  <div class="row justify-content-md-center">
-    <div class="col-md-auto arrow">
-      <h3>Angebot erhalten</h3>
-    </div>
-  </div>
-
-  <div class="row justify-content-md-center">
-    <div class="col-md-auto arrow">
-      <h3>Annehmen</h3>
-      <p class="hint">oder ablehnen und Ware zurück</p>
-    </div>
-  </div>
-
-  <div class="row justify-content-md-center">
     <div class="col-md-auto">
-      <h3>Geld sofort erhalten</h3>
+      <img src="assets/img/konzept.png" class="konzept-img" />
     </div>
   </div>
 
-  <div class="row justify-content-md-center">
-    <div class="col-md-auto" style="padding-top: 5em">
-      <p>Die AGBs sind aktuell am entstehen und werden nächstens hier auf der Homepage aufgeschaltet</p>
-    </div>
+  <div class="row justify-content-md-center" style="padding-top: 5em">
+      <div class="align-content-center" data-aos="fade-up" data-aos-delay="200">
+         <a href="/assets/downloads/AGBs_v1.pdf" target="_blank" class="btn-download">AGBs</a>
+      </div>
+      <div class="align-content-center" data-aos="fade-up" data-aos-delay="200" style="padding-top: 1em">
+         <a href="/assets/downloads/AnnahmeInformationen_v1.pdf" target="_blank" class="btn-download">Annahmeinformationen</a>
+      </div>
   </div>
 </div>
 
