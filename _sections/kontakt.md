@@ -78,7 +78,9 @@ order: 5
       <div class="error-message"></div>
       <div class="sent-message">Deine Nachricht wurde übermittelt. Merci!</div>
     </div>
-    <div class="g-recaptcha" data-sitekey="6Ld1lkwiAAAAAHNTiSoDf3qYDAtShMv9PoRE8F6H"></div>
-    <div class="text-center"><button type="submit">Abschicken</button></div>
+    <div class="form-group">
+        <div class="g-recaptcha" data-sitekey="6Ld1lkwiAAAAAHNTiSoDf3qYDAtShMv9PoRE8F6H" style="padding-top: 1em"></div>
+    </div>
+    <div class="text-center" style="padding-top: 1em"><button type="submit">Abschicken</button></div>
     <input type="hidden" name="utf8" value="✓">
   </form>
