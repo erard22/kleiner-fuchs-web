@@ -7,42 +7,31 @@ order: 2
 ---
 
 <div class="row justify-content-md-center">
-    <div class="col-lg-4 oeffnungszeiten-img" style="background-image: url(assets/img/we-are-open.jpg);" data-aos="zoom-out" data-aos-delay="200"></div>
-    <div class="col-lg-8 d-flex align-items-center oeffnungszeiten-bg oeffnungszeiten-table">
-        <table class="table">
-            <tbody>
-            <tr>
-                <td class="day">Montag</td>
-                <td>geschlossen</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td class="day">Dienstag</td>
-                <td>geschlossen</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td class="day">Mittwoch</td>
-                <td>09:00 - 11:30</td>
-                <td>14:00 - 18:00</td>
-            </tr>
-            <tr>
-                <td class="day">Donnerstag</td>
-                <td>09:00 - 11:30</td>
-                <td>14:00 - 18:00</td>
-            </tr>
-            <tr>
-                <td class="day">Freitag</td>
-                <td>09:00 - 11:30</td>
-                <td>14:00 - 18:00</td>
-            </tr>
-            <tr>
-                <td class="day">Samstag</td>
-                <td>09:00 - 14:00</td>
-                <td></td>
-            </tr>
-            </tbody>
-        </table>
+    <div class="col-lg-8 d-flex oeffnungszeiten-table" data-aos="zoom-in" data-aos-delay="100">
+        <div class="container p-4">
+            <div class="row  gy-2">
+                <div class="col-6 day">Montag</div>
+                <div class="col-6">geschlossen</div>
+
+                <div class="col-4 day">Dienstag</div>
+                <div class="col-8">geschlossen</div>
+
+                <div class="col-4 day">Mittwoch</div>
+                <div class="col-4">09:00 - 11:30</div>
+                <div class="col-4">14:00 - 18:00</div>
+
+                <div class="col-4 day">Donnerstag</div>
+                <div class="col-4">09:00 - 11:30</div>
+                <div class="col-4">14:00 - 18:00</div>
+
+                <div class="col-4 day">Freitag</div>
+                <div class="col-4">09:00 - 11:30</div>
+                <div class="col-4">14:00 - 18:00</div>
+
+                <div class="col-4 day">Samstag</div>
+                <div class="col-8">09:00 - 14:00</div>
+            </div>
+        </div>
     </div>
 </div>
 <div class="row justify-content-md-center" style="padding-top: 2em">

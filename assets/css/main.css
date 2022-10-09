@@ -693,24 +693,25 @@ section {
   background-size: cover;
   position: relative;
   min-height: 80vh;
-  padding: 160px 0 60px 0;
+  padding: 120px 0 60px 0;
 }
 
-.oeffnungszeiten .oeffnungszeiten-img {
-  min-height: 400px;
-  background-size: cover;
-  background-position: center;
+.oeffnungszeiten-table {
+  overflow: hidden;
+  text-align: center;
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 0px 0 30px rgba(55, 55, 63, 0.08);
+  transition: 0.3s;
 }
 
-.oeffnungszeiten-bg {
-  background-color: #ffffff;
-}
-
-.oeffnungszeiten td {
+.oeffnungszeiten-table div {
+  text-align: left;
   vertical-align: text-bottom;
 }
 
-.oeffnungszeiten td.day {
+.oeffnungszeiten .day {
+  text-align: left;
   font-family: var(--font-kleiner);
   width: 33%;
   font-size: 20px;
