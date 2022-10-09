@@ -985,7 +985,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  font-size: 14px;
+  font-size: 13px;
   background-color: #1f1f24;
   padding: 50px 0;
   color: rgba(255, 255, 255, 0.7);
@@ -1051,6 +1051,25 @@ section {
 }
 
 .footer .social-links a:hover {
+  color: #fff;
+  border-color: #fff;
+}
+
+.footer .document-links a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.7);
+  margin-right: 10px;
+  transition: 0.3s;
+}
+
+.footer .document-links a:hover {
   color: #fff;
   border-color: #fff;
 }
