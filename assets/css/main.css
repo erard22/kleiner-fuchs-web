@@ -720,12 +720,12 @@ section {
 
 @media (max-width: 575px) {
   .oeffnungszeiten-table {
-    font-size: 0.9em;
+    font-size: 0.8em;
   }
   .oeffnungszeiten .day {
     text-align: left;
     font-family: var(--font-kleiner);
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 400;
     color: var(--color-secondary);
   }
