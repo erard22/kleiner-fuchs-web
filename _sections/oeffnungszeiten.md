@@ -9,7 +9,7 @@ order: 2
 <div class="row justify-content-md-center">
     <div class="col-lg-8 d-flex oeffnungszeiten-table" data-aos="zoom-in" data-aos-delay="100">
         <div class="container p-4">
-            <div class="row  gy-2">
+            <div class="row">
                 <div class="col-4 day">Montag</div>
                 <div class="col-8">geschlossen</div>
 

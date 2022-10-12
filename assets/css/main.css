@@ -719,10 +719,13 @@ section {
 }
 
 @media (max-width: 575px) {
+  .oeffnungszeiten-table {
+    font-size: 0.9em;
+  }
   .oeffnungszeiten .day {
     text-align: left;
     font-family: var(--font-kleiner);
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
     color: var(--color-secondary);
   }
