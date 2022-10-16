@@ -88,6 +88,11 @@ order: 5
             <div class="form-group">
               <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
             </div>
+            <div class="text-center" style="padding-top: 0px; font-size: 0.8em">
+                This site is protected by reCAPTCHA and the Google
+                <a href="https://policies.google.com/privacy">Privacy Policy</a> and
+                <a href="https://policies.google.com/terms">Terms of Service</a> apply.
+            </div>
             <div class="my-3">
               <div class="loading">Loading</div>
               <div class="error-message"></div>
