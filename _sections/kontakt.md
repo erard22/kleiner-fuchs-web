@@ -57,9 +57,14 @@ order: 5
     </div>
 </div>
 
-<div class="row justify-content-md-center text-center" style="padding-top: 2em">
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script>
+    function onSubmit(token) {
+        document.getElementById("kontakt-form").submit();
+        }
+        </script>
+<div id="kontakt-form" class="row justify-content-md-center text-center" style="padding-top: 2em">
     <div class="col-lg-10 col-md-10">
-        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
         <form action="https://formkeep.com/f/ea741f9c0375"
            accept-charset="UTF-8" enctype="multipart/form-data" method="POST" class="email-form p-3 p-md-4">
             <div class="row">
@@ -81,11 +86,14 @@ order: 5
               <div class="error-message"></div>
               <div class="sent-message">Deine Nachricht wurde übermittelt. Merci!</div>
             </div>
-            <div class="text-center" style="padding-top: 1em"><button type="submit">Abschicken</button></div>
-            <div class="form-group">
-                <div class="g-recaptcha" data-sitekey="6Ld1lkwiAAAAAHNTiSoDf3qYDAtShMv9PoRE8F6H" style="padding-top: 1em"></div>
+            <div class="text-center" style="padding-top: 1em">
+                <button class="g-recaptcha"
+                data-sitekey="6Ld2XYYiAAAAAFxht8gz5zAdbYpoLQjklEvDt_oy"
+                data-callback='onSubmit'
+                data-action='submit'
+                type="submit">Abschicken</button>
+                <input type="hidden" name="utf8" value="✓">
             </div>
-            <input type="hidden" name="utf8" value="✓">
           </form>
   </div>
 </div>
