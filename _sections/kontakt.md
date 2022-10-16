@@ -57,16 +57,23 @@ order: 5
     </div>
 </div>
 
-<script src="https://www.google.com/recaptcha/api.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6Ld2XYYiAAAAAFxht8gz5zAdbYpoLQjklEvDt_oy"></script>
 <script>
-    function onSubmit(token) {
-        document.getElementById("kontakt-form").submit();
-        }
-        </script>
+    function onClick(e) {
+        e.preventDefault();
+        grecaptcha.ready(function() {
+            grecaptcha.execute('6Ld2XYYiAAAAAFxht8gz5zAdbYpoLQjklEvDt_oy', {action: 'submit'}).then(function(token) {
+                document.getElementById('g-recaptcha-response').value = token;
+                console.log('>>> ', token);
+                });
+                });
+    }
+</script>
 <div id="kontakt-form" class="row justify-content-md-center text-center" style="padding-top: 2em">
     <div class="col-lg-10 col-md-10">
         <form action="https://formkeep.com/f/ea741f9c0375"
            accept-charset="UTF-8" enctype="multipart/form-data" method="POST" class="email-form p-3 p-md-4">
+            <input type="hidden" id="g-recaptcha-response" name="g-recaptcha-response">
             <div class="row">
               <div class="col-xl-6 form-group">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Dein Name" required>
@@ -87,11 +94,7 @@ order: 5
               <div class="sent-message">Deine Nachricht wurde übermittelt. Merci!</div>
             </div>
             <div class="text-center" style="padding-top: 1em">
-                <button class="g-recaptcha"
-                data-sitekey="6Ld2XYYiAAAAAFxht8gz5zAdbYpoLQjklEvDt_oy"
-                data-callback='onSubmit'
-                data-action='submit'
-                type="submit">Abschicken</button>
+                <button type="submit" onclick="onClick">Abschicken</button>
                 <input type="hidden" name="utf8" value="✓">
             </div>
           </form>
