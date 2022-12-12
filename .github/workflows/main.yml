@@ -26,6 +26,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Setup Environment.
         run: |
+          gem update --system
           gem install jekyll bundler
           bundle install
 
