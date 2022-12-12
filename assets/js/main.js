@@ -189,7 +189,7 @@ document.addEventListener('DOMContentLoaded', () => {
    */
   new Swiper('.gallery-slider', {
     speed: 400,
-    loop: true,
+    loop: false,
     centeredSlides: true,
     autoplay: {
       delay: 5000,
@@ -216,6 +216,22 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     }
   });
+
+  /**
+   * News Slider
+   */
+  new Swiper('.news-slider', {
+    speed: 400,
+    loop: false,
+    centerInsufficientSlides: true,
+    slidesPerView: 1,
+    pagination: {
+      el: '.swiper-pagination',
+      type: 'bullets',
+      clickable: true
+    }
+  });
+
 
   /**
    * Animation on scroll function and init

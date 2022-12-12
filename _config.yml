@@ -30,6 +30,7 @@ phone_michele: +41 79 352 50 86
 collections:
   - sections
   - pages
+  - posts
 
 # Build settings
 plugins:

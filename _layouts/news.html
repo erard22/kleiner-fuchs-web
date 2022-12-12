@@ -1,0 +1,27 @@
+---
+layout: base
+---
+
+{% include header.html navigation=false %}
+
+<section id="news" class="news d-flex align-items-center section-bg">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-7">
+                <h2 data-aos="fade-up">{{ page.title }}</h2>
+                <p data-aos="fade-up" data-aos-delay="100">
+                    {{ content }}
+                </p>
+            </div>
+            <div class="col-md-5">
+                <div class="news-slider swiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="/assets/img/news/laden-eingang.jpeg"><img src="/assets/img/news/laden-eingang.jpeg" class="img-fluid" alt=""></a></div>
+                        <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="/assets/img/news/gutschein.jpeg"><img src="/assets/img/news/gutschein.jpeg" class="img-fluid" alt=""></a></div>
+                    </div>
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
