@@ -3,7 +3,7 @@ selector: kontakt
 header: kontakt
 title: Auf diesen <span>Wegen</span> findest du uns
 layout: default
-order: 5
+order: 6
 ---
 
 
