@@ -7,7 +7,7 @@ order: 4
 ---
 
 <div class="row justify-content-md-center text-center">
-    <div class="col-lg-8 col-md-8 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+    <div class="col-lg-8 col-md-8 d-flex align-items-stretch">
         <div class="team-member">
           <div class="team-member-img">
             <img src="assets/img/team.jpeg" class="img-fluid" alt="">

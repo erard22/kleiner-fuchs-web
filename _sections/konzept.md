@@ -14,7 +14,7 @@ order: 2
 </div>
 
 <div class="row justify-content-md-center text-center" style="padding-top: 2em">
-    <div class="align-content-center" data-aos="fade-up" data-aos-delay="200" style="padding-top: 1em">
+    <div class="align-content-center" style="padding-top: 1em">
         <a href="/assets/downloads/Annahmeinformationen_Oktober2022.pdf" target="_blank" class="btn-download">Welche Artikel kann ich bringen?</a>
     </div>
 </div>
