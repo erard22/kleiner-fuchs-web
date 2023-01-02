@@ -6,15 +6,15 @@ layout: default
         <div class="container" data-aos="fade-up">
             <div class="row align-items-center">
                 <div class="col-md-7">
-                    <h2>{{ site.posts.last.title }}</h2>
+                    <h2>{{ site.posts.first.title }}</h2>
                     <p>
-                        {{ site.posts.last.content }}
+                        {{ site.posts.first.content }}
                     </p>
                 </div>
                 <div class="col-md-5 text-center">
                     <div class="news-slider swiper" data-aos="zoom-in" data-aos-delay="100">
                         <div class="swiper-wrapper">
-                            {% for image in site.posts.last.images %}
+                            {% for image in site.posts.first.images %}
                             <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="/assets/img/news/{{ image }}"><img src="/assets/img/news/{{ image }}" class="img-fluid" alt=""></a></div>
                             {% endfor %}
                         </div>
