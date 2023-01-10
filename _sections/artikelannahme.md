@@ -3,7 +3,7 @@ selector: artikelannahme
 header: artikelannahme
 title: Besonders <span>gesuchte</span> Artikel
 layout: default
-order: 3
+order: 2
 ---
 
 
