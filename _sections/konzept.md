@@ -12,10 +12,3 @@ order: 2
         <img src="assets/img/konzept.png" class="konzept-img" />
     </div>
 </div>
-
-<div class="row justify-content-md-center text-center" style="padding-top: 2em">
-    <div class="align-content-center" style="padding-top: 1em">
-        <a href="/assets/downloads/Annahmeinformationen_Oktober2022.pdf" target="_blank" class="btn-download">Welche Artikel kann ich bringen?</a>
-    </div>
-</div>
-

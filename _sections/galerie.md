@@ -3,7 +3,7 @@ selector: galerie
 header: galerie
 title: Ein paar Eindrücke aus <span>unserem Laden</span>
 layout: default
-order: 5
+order: 6
 ---
 
 <div class="gallery-slider swiper h-25">

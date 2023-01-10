@@ -85,6 +85,10 @@ h6 {
     }
 }
 
+.highlight {
+    color: var(--color-secondary);
+}
+
 .quote-icon-left,
 .quote-icon-right {
     color: var(--color-secondary);
@@ -822,6 +826,38 @@ section {
         max-width: 90%;
         height: auto;
     }
+}
+
+/*--------------------------------------------------------------
+# Artikelannahme Section
+--------------------------------------------------------------*/
+.artikelannahme {
+    min-height: 500px;
+}
+
+.artikelannahme ul {
+    list-style: none;
+    padding: 0px;
+    margin-left: 1em;
+}
+
+.artikelannahme ul li:before {
+    content: "\2605";
+    margin: 0 1em;
+    color: var(--color-primary);
+}
+
+.artikelannahme ul li {
+    padding: 0 0 4px 4px;
+    position: relative;
+}
+
+.artikelannahme ul i {
+    position: absolute;
+    font-size: 20px;
+    left: 0;
+    top: -3px;
+    color: var(--color-primary);
 }
 
 /*--------------------------------------------------------------

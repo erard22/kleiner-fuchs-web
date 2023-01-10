@@ -3,7 +3,7 @@ selector: oeffnungszeiten
 header: öffnungszeiten
 title: Dann haben wir offen <span>(ab Januar 2023)</offen>
 layout: default
-order: 2
+order: 4
 ---
 
 <div class="row justify-content-center">
