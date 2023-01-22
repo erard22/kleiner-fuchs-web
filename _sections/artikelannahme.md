@@ -17,25 +17,19 @@ order: 2
     <div class="col-md-auto">
         <p>
             <ul>
+            <li>Kleidung aus Materialien wie Schurwolle, Wolle-Seide, Merino, ect, in diversen Grössen</li>
             <li>Schuhe ab Grösse 35</li>
             <li>Pijamas ab Grösse 92</li>
-            <li>Kleidung aus Materialien wie Schurwolle, Wolle-Seide, Merino, etc.</li>
-            <li>Sitzerhöher</li>
-            <li>Kinder Holzstühle</li>
+            <li>Hosen und Leggings in Grösse 110 - 128</li>
+            <li>Röckli</li>
+            <li>Guterhaltene Bücher für Kleinkinder</li>
             <li>Babyphone</li>
-            <li>Learning Tower</li>
             <li>Nintendo Switch Games</li>
             <li>Tonies</li>
-            <li>Spielsachen für grössere Jungs</li>
-            <li>Lego Friends</li>
-            <li>Schleich Tiere</li>
-            <li>Haarschmuck</li>
+            <li>Spielsachen</li>
+            <li>Lego & Lego Friends</li>
             <li>Kinderschmuck & Kinderuhr</li>
-            <li>Bastelzubehör</li>
-            <li>Zubehör fürs Plotten</li>
-            <li>Kinder Pamir</li>
-            <li>Schwimmflügel</li>
-            <li>Babywippe</li>
+            <li>Zubehör fürs Plotten</li>
             <li>Unihockey- und Fussballartikel</li>
             </ul>
         </p>
