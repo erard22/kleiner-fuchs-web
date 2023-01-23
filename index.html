@@ -15,7 +15,7 @@ layout: default
                     <div class="news-slider swiper" data-aos="zoom-in" data-aos-delay="100">
                         <div class="swiper-wrapper">
                             {% for image in site.posts.first.images %}
-                            <div class="swiper-slide"><a class="glightbox" data-gallery="images-gallery" href="/assets/img/news/{{ image }}"><img src="/assets/img/news/{{ image }}" class="img-fluid" alt=""></a></div>
+                            <div class="swiper-slide img-fluid"><a class="glightbox" data-gallery="images-gallery" href="/assets/img/news/{{ image }}"><img src="/assets/img/news/{{ image }}" class="img-fluid" alt=""></a></div>
                             {% endfor %}
                         </div>
                         <div class="swiper-pagination"></div>

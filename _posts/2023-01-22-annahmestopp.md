@@ -2,12 +2,12 @@
 layout: news
 title:  Annahmestopp
 images:
-  - annahmestopp.jpg
+  - kleiner-fuchs.png
 ---
 
-Wir sind überwältigt vom Interesse an unserem kleinen Fuchs. Von den vielen Besuchern im Laden, aber auch von den vielen
-Leuten, die ihre Artikel an uns abgeben möchten. Weil es aber grad so viele sind, müssen wir leider einen temporären
-**Annahmestopp** verhängen. Sicher vorerst mal **nur eine Woche**, bis Ende Januar. Aber das gibt uns etwas Zeit, all die abgegebene Ware zu prüfen
-und in nützlicher Frist ein Angebot für all die tollen Produkte abzugeben, damit möglichst viel wieder in unseren Laden kann.
+Das Interesse, bei uns Sachen abzugeben ist weiterhin riesig. Das freut uns natürlich sehr.
 
-Wir danken euch für euer Verständnis!
+Jedoch ist unser Lager nun voll und es braucht seine Zeit, um alles gut anzuschauen.
+Deswegen können wir bis Ende Januar leider keine neuen Waren annehmen.
+
+Wir hoffen auf euer Verständnis. 
