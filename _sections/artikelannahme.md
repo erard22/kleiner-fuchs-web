@@ -3,7 +3,7 @@ selector: artikelannahme
 header: artikelannahme
 title: Besonders <span>gesuchte</span> Artikel
 layout: default
-order: 2
+order: 7
 ---
 
 
@@ -11,7 +11,8 @@ order: 2
     <div class="col-md-auto text-center">
         <p>
             Die folgende Liste mit Sachen, welche wir besonders suchen, werden wir immer wieder aktualisieren.<br>
-            <span class="highlight">Alle anderen Artikel dürfen natürlich auch jederzeit bei uns abgegeben werden.</span>
+            Alle anderen Artikel dürfen natürlich auch bei uns abgegeben werden. 
+            <span class="highlight">Man beachte aber, dass wir momentan neue Waren nur jeweils in der ersten Woche des Monats annehmen. </span>
         </p>
     </div>
     <div class="col-md-auto">
