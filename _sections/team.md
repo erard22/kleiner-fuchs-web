@@ -3,7 +3,7 @@ selector: team
 header: team
 title: Das Team hinter dem <span>kleinen Fuchs</span>
 layout: default
-order: 6
+order: 5
 ---
 
 <div class="row justify-content-md-center text-center">
