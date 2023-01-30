@@ -2,7 +2,8 @@
 layout: news
 title:  Neue Annahmezeiten
 images:
-  - kleiner-fuchs.png
+  - bring-kalender-februar.jpg
+  - bring-kalender-maerz.jpg
 ---
 
 Viele tolle Sachen wurden uns in den letzten Wochen vorbeigebracht. So viele, dass wir kurzzeitig einen Annahmestopp verhängen mussten.
@@ -12,7 +13,7 @@ Das Lager ist aber noch immer prall gefüllt mit Artikeln, die auch gerne einen 
 Deshalb werden wir in nächster Zeit die Annahmezeiten etwas beschränken. Auch damit wir unsere Zeit etwas besser einteilen können.
 
 Vorläufig dürft ihr uns neue Waren jeweils in der **ersten Woche des Monats** vorbei bringen. 
-Gerne noch immer jeweils zwei Taschen. 
+Gerne noch immer jeweils maximal zwei Taschen. 
 
 Wir veröffentlichen übrigens auf der Homepage auch jeweils [eine Liste](./#artikelannahme) mit Sachen, die besonders gefragt sind.
 
