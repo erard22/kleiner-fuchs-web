@@ -33,6 +33,6 @@
     <link href="{{ "/assets/vendor/swiper/swiper-bundle.min.css" | prepend: site.baseurl | prepend: site.url }}" rel="stylesheet">
 
     <!-- Template Main CSS File -->
-    <link href="{{ "/assets/css/main.css" | prepend: site.baseurl | prepend: site.url }}" rel="stylesheet">
+    <link href="{{ "/assets/css/main.css" | prepend: site.baseurl | prepend: site.url }}?{{ site.time | date: '%s%N' }}" rel="stylesheet">
 
 </head>

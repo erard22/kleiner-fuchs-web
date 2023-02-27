@@ -3,7 +3,7 @@ selector: artikelannahme
 header: artikelannahme
 title: Was wir aktuell <span>suchen</span>
 layout: default
-order: 7
+order: 6
 ---
 
 <div class="row gy-4">
@@ -12,11 +12,11 @@ order: 7
     <div class="artikelannahme-box">
         <h3>Allgemeine Informationen</h3>
         <p>
-        Pro Abgabe bringen Sie bitte maximal 2 Taschen (Papiertaschen Grösse), grössere Artikel gelten als 1 Tasche. 
+        Pro Abgabe bring bitte maximal 2 Taschen (Papiertaschen Grösse), grössere Artikel gelten als 1 Tasche. 
         </p>
         <p>Wir nehmen nur saubere (gewaschene), intakte und vollständige Artikel an. 
         </p>
-        <p>Grosse Artikel bringen Sie bitte nur mit vorheriger Absprache mit uns.
+        <p>Grosse Artikel bring bitte nur mit vorheriger Absprache mit uns.
         </p>
         
         <div class="text-center">
