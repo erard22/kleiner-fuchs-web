@@ -27,7 +27,7 @@ order: 6
 
   <div class="col-lg-8 d-flex align-items-center">
     <div class="row gy-4">  
-        <div class="col-xl-4" data-aos="fade-up" data-aos-delay="200">
+        <div class="col-xl-4">
             <div class="icon-box d-flex flex-column align-items-center">
                 <i class="bi bi-bag-heart-fill"></i>
                 <h4>Diese Artikel können <span class="highlight">jederzeit</span> zu den Öffnungszeiten abgegeben werden</h4>
@@ -47,7 +47,7 @@ order: 6
             </div>
         </div>
     
-        <div class="col-xl-4" data-aos="fade-up" data-aos-delay="300">
+        <div class="col-xl-4">
             <div class="icon-box d-flex flex-column align-items-center">
                 <i class="bi bi-calendar2-check-fill"></i>
                 <h4>Artikel, die vom <span class="highlight">01.&nbsp;-&nbsp;04.&nbsp;März</span> abgegeben werden können</h4>
@@ -74,7 +74,7 @@ order: 6
             </div>
         </div>
 
-        <div class="col-xl-4" data-aos="fade-up" data-aos-delay="400">
+        <div class="col-xl-4">
             <div class="icon-box d-flex flex-column align-items-center">
             <i class="bi bi-cart-x-fill"></i>
             <h4>Was wir momentan oder aus Sicherheits- resp. Hygienegründen <span class="highlight">nicht</span> annehmen</h4>
