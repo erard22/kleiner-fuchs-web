@@ -1,7 +1,7 @@
 ---
 selector: oeffnungszeiten
 header: öffnungszeiten
-title: Dann haben wir offen <span>(ab Januar 2023)</offen>
+title: Dann haben wir <span>offen</span>
 layout: default
 order: 4
 ---

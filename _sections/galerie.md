@@ -1,7 +1,7 @@
 ---
 selector: galerie
 header: galerie
-title: Ein paar Eindrücke aus <span>unserem Laden</span>
+title: Ein paar <span>Eindrücke</span> aus unserem Laden
 layout: default
 order: 3
 ---

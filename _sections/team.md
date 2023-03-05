@@ -1,7 +1,7 @@
 ---
 selector: team
 header: team
-title: Das Team hinter dem <span>kleinen Fuchs</span>
+title: Das <span>Team</span> hinter dem kleinen Fuchs
 layout: default
 order: 5
 ---
