@@ -3,7 +3,7 @@ selector: artikelannahme
 header: artikelannahme
 title: Was wir aktuell <span>suchen</span>
 layout: default
-order: 6
+order: 4
 ---
 
 <div class="row gy-4">
@@ -20,7 +20,7 @@ order: 6
         </p>
         
         <div class="text-center">
-            <a href="/assets/downloads/Annahmeinformationen_Maerz2023.pdf" class="more-btn">Mehr Informationen <i class="bx bx-chevron-right"></i></a>
+            <a href="/assets/downloads/Annahmeinformationen_April2023.pdf" class="more-btn">Mehr Informationen <i class="bx bx-chevron-right"></i></a>
         </div>
     </div>
   </div>
@@ -37,11 +37,12 @@ order: 6
                 <li>Spielsachen ab 3. Jahren</li>
                 <li>Gesellschaftsspiele</li>
                 <li>Playmobil</li>
-                <li>Lego</li>
+                <li>Lego (kein Duplo)</li>
                 <li>Tip Toi Artikel</li>
                 <li>Wieso, Weshalb, Warum Bücher</li>
+                <li>Pixi-Bücher</li>
                 <li>Tonies</li>
-                <li>Nintendo Switch Spiele</li>
+                <li>Schleichtiere</li>
                 </ul>
                 </p>
             </div>
@@ -50,25 +51,25 @@ order: 6
         <div class="col-xl-4">
             <div class="icon-box d-flex flex-column align-items-center">
                 <i class="bi bi-calendar2-check-fill"></i>
-                <h4>Artikel, die vom <span class="highlight">01.&nbsp;-&nbsp;04.&nbsp;März</span> abgegeben werden können</h4>
+                <h4>Artikel, die am <span class="highlight">25.&nbsp;März und an jedem Samstag im April</span> abgegeben werden können</h4>
                 <p>
                 <ul>
+                <li>Kleier aus Materialien wie Schurwolle, Wolle-Seite, Merino, etc</li>
                 <li>Kinderkleider Grösse 44&nbsp;–&nbsp;174</li>
                 <li>Teeniekleidung Grösse XS/S</li>
-                <li>guterhaltene Schuhe für Kinder und Teenager</li>
+                <li>Guterhaltene Schuhe für Kinder und Teenager</li>
                 <li>Kindersportartikel, Outdoorspiele</li>
                 <li>Kinderhelme (gut erhalten & unfallfrei)</li>
-                <li>verschiedene Tragehilfen</li>
-                <li>saubere und gut erhaltene, vollständige</li>
+                <li>Verschiedene Tragehilfen</li>
                 <li>Spielsachen & Gesellschaftsspiele</li>
                 <li>Kinderbücher, Game Konsolen, Games</li>
-                <li>Hörspiele</li>
+                <li>Hörspiele und Tonies</li>
                 <li>Kinder- und Teenieschmuck & Uhren</li>
                 <li>Bastelmaterial</li>
                 <li>Absperrgitter, Hochstühle & Zubehör</li>
-                <li>Dondolo, Reisebetten &. Zubehör</li>
+                <li>Dondolo, Reisebetten & Zubehör</li>
                 <li>Buggy, Fahrräder und diverse Fahrzeuge</li>
-                <li>sonstige Baby- und Kinderartikel</li>
+                <li>Sonstige Baby- und Kinderartikel</li>
                 </ul>
                 </p>
             </div>
@@ -77,7 +78,7 @@ order: 6
         <div class="col-xl-4">
             <div class="icon-box d-flex flex-column align-items-center">
             <i class="bi bi-cart-x-fill"></i>
-            <h4>Was wir momentan oder aus Sicherheits- resp. Hygienegründen <span class="highlight">nicht</span> annehmen</h4>
+            <h4>Artikel, die wir <span class="highlight">nicht</span> annehmen<br/><br/><br/></h4>
             <p>
             <ul>
             <li>Schwangerschaftskleidung</li>
