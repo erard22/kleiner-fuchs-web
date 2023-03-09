@@ -11,4 +11,5 @@ images:
 
 Unter [Artikelannahme](./#artikelannahme) haben wir eine Liste erstellt, wo ersichtlich ist, wann wir welche Artikel annehmen.
 
-Neu Artikel bedeutet auch, dass wir laufend neue Schätze bei uns im Laden haben, die entdeckt werden können.
+Artikelannahme bedeuten auch immer, dass wir laufend neue Schätze bei uns im Laden haben, die entdeckt werden können. 
+Kommt vorbei und überzeugt euch selbst.
