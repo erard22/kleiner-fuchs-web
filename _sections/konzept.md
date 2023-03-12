@@ -3,7 +3,7 @@ selector: konzept
 header: konzept
 title: Börse <span>neu</span> gedacht
 layout: default
-order: 7
+order: 8
 ---
 
 
