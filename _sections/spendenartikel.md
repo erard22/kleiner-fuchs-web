@@ -12,6 +12,7 @@ Was passiert mit den gespendeten Artikeln?
 
 - werden in Buchsi an Sozialhilfebezügerinnen oder Leute mit tiefem Einkommen abgegeben
 - werden nach Bedarf ins Mutter-Kind-Wohnen in Wiedlisbach abgegeben
+- werden bei der Lebensgemeinschaft Sonnhalde in Wynigen abgegeben
 - Kinderbücher gehen ins Bundesasylzentrum Flumenthal
 - werden in die Kita und ins Tagi vom Kinderhut abgegeben
 - werden in die Brockenstube vom Frauenverein gebracht
