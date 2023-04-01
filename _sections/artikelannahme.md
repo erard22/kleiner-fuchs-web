@@ -34,6 +34,8 @@ order: 4
                 <p>
                 <ul>
                 <li>Hosen/Leggins Grösse 104&nbsp;-&nbsp;134</li>
+                <li>T-Shirts ab Grösse 122</li>
+                <li>Bedebekleidung ab Grösse 116</li>
                 <li>Spielsachen ab 3. Jahren</li>
                 <li>Gesellschaftsspiele</li>
                 <li>Playmobil</li>
@@ -51,7 +53,7 @@ order: 4
         <div class="col-xl-4">
             <div class="icon-box d-flex flex-column align-items-center">
                 <i class="bi bi-calendar2-check-fill"></i>
-                <h4>Artikel, die am <span class="highlight">25.&nbsp;März und an jedem Samstag im April</span> abgegeben werden können</h4>
+                <h4>Artikel, die <span class="highlight">an jedem Samstag im April</span> abgegeben werden können</h4>
                 <p>
                 <ul>
                 <li>Kleier aus Materialien wie Schurwolle, Wolle-Seite, Merino, etc</li>
