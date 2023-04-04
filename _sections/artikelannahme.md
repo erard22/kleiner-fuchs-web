@@ -35,7 +35,7 @@ order: 4
                 <ul>
                 <li>Hosen/Leggins Grösse 104&nbsp;-&nbsp;134</li>
                 <li>T-Shirts ab Grösse 122</li>
-                <li>Bedebekleidung ab Grösse 116</li>
+                <li>Badebekleidung ab Grösse 116</li>
                 <li>Spielsachen ab 3. Jahren</li>
                 <li>Gesellschaftsspiele</li>
                 <li>Playmobil</li>
