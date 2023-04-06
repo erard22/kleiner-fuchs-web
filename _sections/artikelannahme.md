@@ -33,8 +33,8 @@ order: 4
                 <h4>Diese Artikel können <span class="highlight">jederzeit</span> zu den Öffnungszeiten abgegeben werden</h4>
                 <p>
                 <ul>
-                <li>Hosen/Leggins Grösse 104&nbsp;-&nbsp;134</li>
-                <li>T-Shirts ab Grösse 122</li>
+                <li>Lange Hosen/Leggins Grösse 104&nbsp;-&nbsp;134</li>
+                <li>T-Shirts Grösse 122&nbsp;-&nbsp;152</li>
                 <li>Badebekleidung ab Grösse 116</li>
                 <li>Spielsachen ab 3. Jahren</li>
                 <li>Gesellschaftsspiele</li>
