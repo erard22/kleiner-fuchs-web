@@ -34,7 +34,7 @@ order: 4
                 <p>
                 <ul>
                 <li>Lange Hosen/Leggins Grösse 104&nbsp;-&nbsp;134</li>
-                <li>T-Shirts Grösse 122&nbsp;-&nbsp;152</li>
+                <li>T-Shirts ab Grösse 122</li>
                 <li>Badebekleidung ab Grösse 116</li>
                 <li>Spielsachen ab 3. Jahren</li>
                 <li>Gesellschaftsspiele</li>
@@ -44,7 +44,8 @@ order: 4
                 <li>Wieso, Weshalb, Warum Bücher</li>
                 <li>Pixi-Bücher</li>
                 <li>Tonies</li>
-                <li>Schleichtiere</li>
+                <li>Schleich</li>
+                <li>Playmobil</li>
                 </ul>
                 </p>
             </div>
@@ -63,11 +64,11 @@ order: 4
                 <li>Kindersportartikel, Outdoorspiele</li>
                 <li>Kinderhelme (gut erhalten & unfallfrei)</li>
                 <li>Verschiedene Tragehilfen</li>
-                <li>Spielsachen & Gesellschaftsspiele</li>
-                <li>Kinderbücher, Game Konsolen, Games</li>
-                <li>Hörspiele und Tonies</li>
+                <li>Spielsachen, Gesellschaftsspiele & Lego</li>
+                <li>Kinderbücher, Hörspiele & Tonies</li>
+                <li>Game Konsolen, Games</li>
                 <li>Kinder- und Teenieschmuck & Uhren</li>
-                <li>Bastelmaterial</li>
+                <li>Bastelmaterial, Stoff & Nähzubehör</li>
                 <li>Absperrgitter, Hochstühle & Zubehör</li>
                 <li>Dondolo, Reisebetten & Zubehör</li>
                 <li>Buggy, Fahrräder und diverse Fahrzeuge</li>
@@ -80,10 +81,13 @@ order: 4
         <div class="col-xl-4">
             <div class="icon-box d-flex flex-column align-items-center">
             <i class="bi bi-cart-x-fill"></i>
-            <h4>Artikel, die wir <span class="highlight">nicht</span> annehmen<br/><br/><br/></h4>
+            <h4>Artikel, die wir <span class="highlight">aktuell</span> nicht annehmen<br/><br/><br/></h4>
             <p>
             <ul>
+            <li>Winterkleidung und -schuhe</li>
+            <li>Grösse 62/68 Hosen, Shirts & Bodys</li>
             <li>Schwangerschaftskleidung</li>
+            <li>Gestrickte Socken, Schuhe & Mützen</li>
             <li>Babywalker (Gehfrei) & Türhopser</li>
             <li>Kindersitze und Maxi Cosi</li>
             <li>Windeleimer</li>
