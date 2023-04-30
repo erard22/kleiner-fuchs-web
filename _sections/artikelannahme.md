@@ -57,7 +57,7 @@ order: 4
                 <h4>Artikel, die <span class="highlight">an jedem Samstag im April</span> abgegeben werden können</h4>
                 <p>
                 <ul>
-                <li>Kleier aus Materialien wie Schurwolle, Wolle-Seite, Merino, etc</li>
+                <li>Kleider aus Materialien wie Schurwolle, Wolle-Seite, Merino, etc</li>
                 <li>Kinderkleider Grösse 44&nbsp;–&nbsp;174</li>
                 <li>Teeniekleidung Grösse XS/S</li>
                 <li>Guterhaltene Schuhe für Kinder und Teenager</li>
