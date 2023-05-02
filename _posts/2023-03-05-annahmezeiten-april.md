@@ -7,9 +7,9 @@ images:
   - schaufenster.jpeg
 ---
 
-Im April möchten wir die Tage etwas besser verteilen und nehmen neue Artikel jeweils __Samstags__ an.
+Unser Lager ist prall gefüllt und der Mai gespickt mit Feiertagen, weshalb wir diesen Monat nur einen Annahmetag anbieten können: __Samstag, 20. Mai__.
 
-Unter [Artikelannahme](./#artikelannahme) haben wir eine Liste erstellt, wo ersichtlich ist, wann wir welche Artikel annehmen.
+Es gibt aber auch Ausnahmen. Unter [Artikelannahme](./#artikelannahme) haben wir eine Liste erstellt, wo ersichtlich ist, wann wir welche Artikel annehmen.
 
 Neue Artikel bedeuten auch immer, dass wir laufend neue Schätze bei uns im Laden haben, die entdeckt werden können. 
 Kommt vorbei und überzeugt euch selbst.

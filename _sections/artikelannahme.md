@@ -20,7 +20,7 @@ order: 4
         </p>
         
         <div class="text-center">
-            <a href="/assets/downloads/Annahmeinformationen_April2023.pdf" class="more-btn">Mehr Informationen <i class="bx bx-chevron-right"></i></a>
+            <a href="/assets/downloads/Annahmeinformationen_Mai2023.pdf" class="more-btn">Mehr Informationen <i class="bx bx-chevron-right"></i></a>
         </div>
     </div>
   </div>
@@ -54,7 +54,7 @@ order: 4
         <div class="col-xl-4">
             <div class="icon-box d-flex flex-column align-items-center">
                 <i class="bi bi-calendar2-check-fill"></i>
-                <h4>Artikel, die <span class="highlight">an jedem Samstag im April</span> abgegeben werden können</h4>
+                <h4>Artikel, die <span class="highlight">am 20. Mai</span> abgegeben werden können</h4>
                 <p>
                 <ul>
                 <li>Kleider aus Materialien wie Schurwolle, Wolle-Seite, Merino, etc</li>
