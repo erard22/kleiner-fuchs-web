@@ -35,6 +35,8 @@ order: 4
                 <ul>
                 <li>Lange Hosen/Leggins Grösse 104&nbsp;-&nbsp;134</li>
                 <li>T-Shirts ab Grösse 122</li>
+                <li>Regenkleidung ab Grösse 104</li>
+                <li>Gummistiefel</li>
                 <li>Badebekleidung ab Grösse 116</li>
                 <li>Spielsachen ab 3. Jahren</li>
                 <li>Gesellschaftsspiele</li>
