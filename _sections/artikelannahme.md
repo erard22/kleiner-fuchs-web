@@ -33,8 +33,8 @@ order: 4
                 <h4>Diese Artikel können <span class="highlight">jederzeit</span> zu den Öffnungszeiten abgegeben werden</h4>
                 <p>
                 <ul>
-                <li>Lange Hosen/Leggins Grösse 104&nbsp;-&nbsp;134</li>
-                <li>T-Shirts ab Grösse 122</li>
+                <li>Lange Hosen/Leggins Grösse 104&nbsp;-&nbsp;128</li>
+                <li>T-Shirts Grösse 116&nbsp;-&nbsp;152</li>
                 <li>Regenkleidung ab Grösse 104</li>
                 <li>Gummistiefel</li>
                 <li>Badebekleidung ab Grösse 116</li>
@@ -42,7 +42,7 @@ order: 4
                 <li>Gesellschaftsspiele</li>
                 <li>Playmobil</li>
                 <li>Lego (kein Duplo)</li>
-                <li>Tip Toi Artikel</li>
+                <li>Tip Toi Stift und Bücher</li>
                 <li>Wieso, Weshalb, Warum Bücher</li>
                 <li>Pixi-Bücher</li>
                 <li>Tonies</li>
@@ -60,7 +60,7 @@ order: 4
                 <p>
                 <ul>
                 <li>Kleider aus Materialien wie Schurwolle, Wolle-Seite, Merino, etc</li>
-                <li>Kinderkleider Grösse 44&nbsp;–&nbsp;174</li>
+                <li>Saisonale Kinderkleider Grösse 44&nbsp;–&nbsp;174</li>
                 <li>Teeniekleidung Grösse XS/S</li>
                 <li>Guterhaltene Schuhe für Kinder und Teenager</li>
                 <li>Kindersportartikel, Outdoorspiele</li>

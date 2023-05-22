@@ -1,6 +1,6 @@
 ---
 layout: news
-title:  Annahmezeiten im April
+title:  Annahmezeiten im Mai
 images:
   - puppen.jpeg
   - schmuck.jpeg
