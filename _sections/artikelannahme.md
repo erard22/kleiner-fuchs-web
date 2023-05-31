@@ -20,7 +20,7 @@ order: 4
         </p>
         
         <div class="text-center">
-            <a href="/assets/downloads/Annahmeinformationen_Mai2023.pdf" class="more-btn">Mehr Informationen <i class="bx bx-chevron-right"></i></a>
+            <a href="/assets/downloads/Annahmeinformationen_Juni2023.pdf" class="more-btn">Mehr Informationen <i class="bx bx-chevron-right"></i></a>
         </div>
     </div>
   </div>
@@ -33,16 +33,14 @@ order: 4
                 <h4>Diese Artikel können <span class="highlight">jederzeit</span> zu den Öffnungszeiten abgegeben werden</h4>
                 <p>
                 <ul>
-                <li>Lange Hosen/Leggins Grösse 104&nbsp;-&nbsp;128</li>
-                <li>T-Shirts Grösse 116&nbsp;-&nbsp;152</li>
                 <li>Regenkleidung ab Grösse 104</li>
                 <li>Gummistiefel</li>
+                <li>Lange Hosen/Leggins Grösse 104&nbsp;-&nbsp;128</li>
+                <li>T-Shirts Grösse 116&nbsp;-&nbsp;152</li>
                 <li>Badebekleidung ab Grösse 116</li>
                 <li>Spielsachen ab 3. Jahren</li>
                 <li>Gesellschaftsspiele</li>
-                <li>Playmobil</li>
-                <li>Lego (kein Duplo)</li>
-                <li>Tip Toi Stift und Bücher</li>
+                <li>Tip Toi - Stift und Bücher</li>
                 <li>Wieso, Weshalb, Warum Bücher</li>
                 <li>Pixi-Bücher</li>
                 <li>Tonies</li>
@@ -56,19 +54,18 @@ order: 4
         <div class="col-xl-4">
             <div class="icon-box d-flex flex-column align-items-center">
                 <i class="bi bi-calendar2-check-fill"></i>
-                <h4>Artikel, die <span class="highlight">am 20. Mai</span> abgegeben werden können</h4>
+                <h4>Artikel, die <span class="highlight">am 24. Juni</span> abgegeben werden können</h4>
                 <p>
                 <ul>
                 <li>Kleider aus Materialien wie Schurwolle, Wolle-Seite, Merino, etc</li>
-                <li>Saisonale Kinderkleider Grösse 44&nbsp;–&nbsp;174</li>
+                <li>Saisonale Kinderkleider Grösse 44&nbsp;–&nbsp;176</li>
                 <li>Teeniekleidung Grösse XS/S</li>
                 <li>Guterhaltene Schuhe für Kinder und Teenager</li>
                 <li>Kindersportartikel, Outdoorspiele</li>
-                <li>Kinderhelme (gut erhalten & unfallfrei)</li>
                 <li>Verschiedene Tragehilfen</li>
                 <li>Spielsachen, Gesellschaftsspiele & Lego</li>
                 <li>Kinderbücher, Hörspiele & Tonies</li>
-                <li>Game Konsolen, Games</li>
+                <li>Game-Konsolen, Games</li>
                 <li>Kinder- und Teenieschmuck & Uhren</li>
                 <li>Bastelmaterial, Stoff & Nähzubehör</li>
                 <li>Absperrgitter, Hochstühle & Zubehör</li>
