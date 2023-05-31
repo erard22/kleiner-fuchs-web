@@ -33,16 +33,14 @@ order: 4
                 <h4>Diese Artikel können <span class="highlight">jederzeit</span> zu den Öffnungszeiten abgegeben werden</h4>
                 <p>
                 <ul>
-                <li>Regenkleidung ab Grösse 104</li>
+                <li>Regenkleidung</li>
                 <li>Gummistiefel</li>
-                <li>Lange Hosen/Leggins Grösse 104&nbsp;-&nbsp;128</li>
+                <li>Lange Hosen/Leggins Grösse 110&nbsp;-&nbsp;128</li>
                 <li>T-Shirts Grösse 116&nbsp;-&nbsp;152</li>
                 <li>Badebekleidung ab Grösse 116</li>
-                <li>Spielsachen ab 3. Jahren</li>
                 <li>Gesellschaftsspiele</li>
                 <li>Tip Toi - Stift und Bücher</li>
                 <li>Wieso, Weshalb, Warum Bücher</li>
-                <li>Pixi-Bücher</li>
                 <li>Tonies</li>
                 <li>Schleich</li>
                 <li>Playmobil</li>
