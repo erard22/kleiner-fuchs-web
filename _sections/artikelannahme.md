@@ -33,17 +33,13 @@ order: 4
                 <h4>Diese Artikel können <span class="highlight">jederzeit</span> zu den Öffnungszeiten abgegeben werden</h4>
                 <p>
                 <ul>
-                <li>Regenkleidung</li>
-                <li>Gummistiefel</li>
-                <li>Lange Hosen/Leggins Grösse 110&nbsp;-&nbsp;128</li>
-                <li>T-Shirts Grösse 116&nbsp;-&nbsp;152</li>
                 <li>Badebekleidung ab Grösse 116</li>
+                <li>Gut erhaltene Buggys</li>
                 <li>Gesellschaftsspiele</li>
                 <li>Tip Toi - Stift und Bücher</li>
                 <li>Wieso, Weshalb, Warum Bücher</li>
                 <li>Tonies</li>
                 <li>Schleich</li>
-                <li>Playmobil</li>
                 </ul>
                 </p>
             </div>
@@ -55,13 +51,15 @@ order: 4
                 <h4>Artikel, die <span class="highlight">am 24. Juni</span> abgegeben werden können</h4>
                 <p>
                 <ul>
+                <li>Saisonale Kinderkleider Grösse 92&nbsp;-&nbsp;176</li>
+                <li>Strampler & Regenkleidung ab Grösse 50</li>
                 <li>Kleider aus Materialien wie Schurwolle, Wolle-Seite, Merino, etc</li>
-                <li>Saisonale Kinderkleider Grösse 44&nbsp;–&nbsp;176</li>
                 <li>Teeniekleidung Grösse XS/S</li>
                 <li>Guterhaltene Schuhe für Kinder und Teenager</li>
                 <li>Kindersportartikel, Outdoorspiele</li>
                 <li>Verschiedene Tragehilfen</li>
-                <li>Spielsachen, Gesellschaftsspiele & Lego</li>
+                <li>Spielsachen, Gesellschaftsspiele</li>
+                <li>Lego & Playmobil</li>
                 <li>Kinderbücher, Hörspiele & Tonies</li>
                 <li>Game-Konsolen, Games</li>
                 <li>Kinder- und Teenieschmuck & Uhren</li>
@@ -81,8 +79,8 @@ order: 4
             <h4>Artikel, die wir <span class="highlight">aktuell</span> nicht annehmen<br/><br/><br/></h4>
             <p>
             <ul>
+            <li>Grösse 56-86 Hosen, Shirts & Bodys</li>
             <li>Winterkleidung und -schuhe</li>
-            <li>Grösse 62/68 Hosen, Shirts & Bodys</li>
             <li>Schwangerschaftskleidung</li>
             <li>Gestrickte Socken, Schuhe & Mützen</li>
             <li>Babywalker (Gehfrei) & Türhopser</li>
