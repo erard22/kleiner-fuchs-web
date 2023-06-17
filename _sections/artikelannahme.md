@@ -33,13 +33,16 @@ order: 4
                 <h4>Diese Artikel können <span class="highlight">jederzeit</span> zu den Öffnungszeiten abgegeben werden</h4>
                 <p>
                 <ul>
-                <li>Badebekleidung ab Grösse 116</li>
+                <li>Badebekleidung ab Grösse 92</li>
+                <li>Kurze Hosen Grösse 92&nbsp;-&nbsp;116</li>
+                <li>T-Shirts alle Grössen</li>
+                <li>Ungefütterte Regenhosen alle Grössen</li>
+                <li>Bodys Grösse 80&nbsp;-&nbsp;104</li>
                 <li>Gut erhaltene Buggys</li>
                 <li>Gesellschaftsspiele</li>
                 <li>Tip Toi - Stift und Bücher</li>
                 <li>Wieso, Weshalb, Warum Bücher</li>
                 <li>Tonies</li>
-                <li>Schleich</li>
                 </ul>
                 </p>
             </div>
@@ -79,7 +82,8 @@ order: 4
             <h4>Artikel, die wir <span class="highlight">aktuell</span> nicht annehmen<br/><br/><br/></h4>
             <p>
             <ul>
-            <li>Grösse 56-86 Hosen, Shirts & Bodys</li>
+            <li>Grösse 56&nbsp;-&nbsp;86 Hosen & Shirts</li>
+            <li>Grösse 56&nbsp;-&nbsp;74 Bodys</li>
             <li>Winterkleidung und -schuhe</li>
             <li>Schwangerschaftskleidung</li>
             <li>Gestrickte Socken, Schuhe & Mützen</li>
