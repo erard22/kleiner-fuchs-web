@@ -35,7 +35,7 @@ order: 4
                 <ul>
                 <li>Badebekleidung ab Grösse 92</li>
                 <li>Kurze Hosen Grösse 92&nbsp;-&nbsp;116</li>
-                <li>T-Shirts alle Grössen</li>
+                <li>T-Shirts ab Grösse 92</li>
                 <li>Ungefütterte Regenhosen alle Grössen</li>
                 <li>Bodys Grösse 80&nbsp;-&nbsp;104</li>
                 <li>Gut erhaltene Buggys</li>

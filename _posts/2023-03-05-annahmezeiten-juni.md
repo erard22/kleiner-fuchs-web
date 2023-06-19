@@ -2,9 +2,8 @@
 layout: news
 title:  Annahmezeiten im Juni
 images:
-  - puppen.jpeg
-  - schmuck.jpeg
-  - schaufenster.jpeg
+  - rosa-kleider.jpeg
+  - violetter-eingang.jpeg
 ---
 
 Momentan möchten wir bei einem Annahmetag bleiben für den Juni. Gerne dürft ihr uns eure Taschen bringen am: __Samstag, 24. Juni 2023__.
