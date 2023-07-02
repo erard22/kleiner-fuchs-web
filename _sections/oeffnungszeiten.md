@@ -36,8 +36,10 @@ order: 5
 </div>
 <div class="row justify-content-md-center" style="padding-top: 2em">
     <div class="text-center">
-    <p>
+    <h3>Auch der kleine Fuchs macht Ferien</h3>
+    <p>Bitte beachtet, dass unser Laden vom <b>30. Juli bis zum 6. August</b> geschlossen bleibt.</p>
+    <!--p>
     Während den Ferien können spezielle Öffnungszeiten gelten.<br/>Diese werden auf der Webseite, auf Instagram und Facebook rechtzeitig publiziert.
-    </p>
+    </p-->
     </div>
 </div>

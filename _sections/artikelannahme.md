@@ -20,7 +20,7 @@ order: 4
         </p>
         
         <div class="text-center">
-            <a href="/assets/downloads/Annahmeinformationen_Juni2023.pdf" class="more-btn">Mehr Informationen <i class="bx bx-chevron-right"></i></a>
+            <a href="/assets/downloads/Annahmeinformationen_Juli2023.pdf" class="more-btn">Mehr Informationen <i class="bx bx-chevron-right"></i></a>
         </div>
     </div>
   </div>
@@ -34,11 +34,10 @@ order: 4
                 <p>
                 <ul>
                 <li>Badebekleidung ab Grösse 92</li>
-                <li>Kurze Hosen Grösse 92&nbsp;-&nbsp;116</li>
-                <li>T-Shirts ab Grösse 92</li>
-                <li>Ungefütterte Regenhosen alle Grössen</li>
+                <li>Kurze Hosen Grösse 92&nbsp;-&nbsp;152</li>
+                <li>T-Shirts Grösse 92&nbsp;-&nbsp;152</li>
+                <li>Regenkleidung</li>
                 <li>Bodys Grösse 80&nbsp;-&nbsp;104</li>
-                <li>Gut erhaltene Buggys</li>
                 <li>Gesellschaftsspiele</li>
                 <li>Tip Toi - Stift und Bücher</li>
                 <li>Wieso, Weshalb, Warum Bücher</li>
