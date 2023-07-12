@@ -38,7 +38,6 @@ order: 4
                 <li>T-Shirts Grösse 92&nbsp;-&nbsp;152</li>
                 <li>Regenkleidung</li>
                 <li>Bodys Grösse 80&nbsp;-&nbsp;104</li>
-                <li>Gesellschaftsspiele</li>
                 <li>Tip Toi - Stift und Bücher</li>
                 <li>Wieso, Weshalb, Warum Bücher</li>
                 <li>Tonies</li>
@@ -50,7 +49,7 @@ order: 4
         <div class="col-xl-4">
             <div class="icon-box d-flex flex-column align-items-center">
                 <i class="bi bi-calendar2-check-fill"></i>
-                <h4>Artikel, die <span class="highlight">am 24. Juni</span> abgegeben werden können</h4>
+                <h4>Artikel, die <span class="highlight">am 12. August</span> abgegeben werden können</h4>
                 <p>
                 <ul>
                 <li>Saisonale Kinderkleider Grösse 92&nbsp;-&nbsp;176</li>
@@ -67,7 +66,7 @@ order: 4
                 <li>Kinder- und Teenieschmuck & Uhren</li>
                 <li>Bastelmaterial, Stoff & Nähzubehör</li>
                 <li>Absperrgitter, Hochstühle & Zubehör</li>
-                <li>Dondolo, Reisebetten & Zubehör</li>
+                <li>Dondolo, Babywippen & Zubehör</li>
                 <li>Buggy, Fahrräder und diverse Fahrzeuge</li>
                 <li>Sonstige Baby- und Kinderartikel</li>
                 </ul>
