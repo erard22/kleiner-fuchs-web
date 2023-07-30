@@ -38,7 +38,7 @@ order: 4
                 <li>Schbuhe in den Grösse 25&nbsp;-&nbsp;152</li>
                 <li>Regenkleidung</li>
                 <li>Leggins Grösse 92&nbsp;-&nbsp;152</li>
-                <li>Pijama Grösse 152&nbsp;-&nbsp;162</li>
+                <li>Pijama Grösse 92&nbsp;-&nbsp;152</li>
                 <li>Tip Toi - Stift und Bücher</li>
                 <li>Wieso, Weshalb, Warum Bücher</li>
                 <li>Tonies</li>
