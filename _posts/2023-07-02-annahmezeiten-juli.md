@@ -7,7 +7,7 @@ images:
 ---
 
 Auch der kleine Fuchs macht mal Ferien. Bitte beachtet, dass unser Laden vom __30. Juli bis zum 6. August__ geschlossen bleibt.
-Ansonsten sind wir aber auch in den Ferien zu den normalen [Öffnungszeiten](./#oeffnungszeiten) für euch da.
+Ansonsten sind wir zu den normalen [Öffnungszeiten](./#oeffnungszeiten) für euch da.
 
 Gleich danach haben wir wieder Annahmetag: __Samstag, 12. August 2023__.
 

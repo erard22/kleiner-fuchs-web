@@ -35,7 +35,7 @@ order: 4
                 <ul>
                 <li>Kleidung aus Materialien wie Schurwolle, Wolle-Seide, Merion, etc</li>
                 <li>Badeshirts & Badekleider ab Grösse 92</li>
-                <li>Schbuhe in den Grösse 25&nbsp;-&nbsp;152</li>
+                <li>Schuhe in den Grösse 25&nbsp;-&nbsp;35</li>
                 <li>Regenkleidung</li>
                 <li>Leggins Grösse 92&nbsp;-&nbsp;152</li>
                 <li>Pijama Grösse 92&nbsp;-&nbsp;152</li>
