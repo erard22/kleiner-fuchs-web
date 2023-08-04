@@ -845,11 +845,8 @@ section {
     margin-bottom: 30px;
 }
 
-.artikelannahme .artikelannahme-box p {
-    margin-bottom: 30px;
-}
-
 .artikelannahme .artikelannahme-box .more-btn {
+    margin-top: 20px;
     display: inline-block;
     background: rgba(255, 255, 255, 0.3);
     padding: 6px 30px 8px 30px;
