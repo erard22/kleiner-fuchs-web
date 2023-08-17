@@ -19,6 +19,10 @@ order: 4
             <li>Regenkleidung</li>
             <li>Leggins Grösse 92&nbsp;-&nbsp;152</li>
             <li>Pijama Grösse 92&nbsp;-&nbsp;152</li>
+            <li>Lange HOsen in den Grössen 110&nbsp;-&nbsp;134</li>
+            <li>Herbströckli in den Grössen 50&nbsp;-&nbsp;140</li>
+            <li>Bodys ab Grösse 74&nbsp;-&nbsp;104</li>
+            <li>Strampler ab Grösse 50&nbsp;-&nbsp;92</li>
             <li>Tip Toi - Stift und Bücher</li>
             <li>Wieso, Weshalb, Warum Bücher</li>
             <li>Tonies</li>
@@ -30,11 +34,10 @@ order: 4
     <div class="col-lg-4 col-sm-10">
         <div class="rounded-2 icon-box d-flex flex-column align-items-center">
             <i class="bi bi-calendar2-check-fill"></i>
-            <h4>Artikel, die <span class="highlight">am 12. August</span> abgegeben werden können</h4>
+            <h4>Artikel, die <span class="highlight">am 26. August</span> abgegeben werden können</h4>
             <p>
             <ul>
             <li>Herbstkleider Grösse 92&nbsp;-&nbsp;176</li>
-            <li>Strampler ab Grösse 50</li>
             <li>Teeniekleidung Grösse XS/S</li>
             <li>Guterhaltene Schuhe für Kinder und Teenager</li>
             <li>Kindersportartikel, Outdoorspiele</li>
@@ -61,9 +64,7 @@ order: 4
         <p>
         <ul>
         <li>Hosen & Longshits Grösse 56&nbsp;-&nbsp;86</li>
-        <li>Bodys Grösse 56&nbsp;-&nbsp;68</li>
         <li>Sommerkleidung und -schuhe</li>
-        <li>Winterkleidung und -schuhe</li>
         <li>Schwangerschaftskleidung</li>
         <li>Gestrickte Socken, Schuhe & Mützen</li>
         <li>Babywalker (Gehfrei) & Türhopser</li>
