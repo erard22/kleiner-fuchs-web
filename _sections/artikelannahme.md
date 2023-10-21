@@ -13,12 +13,12 @@ order: 4
             <h4>Diese Artikel können <span class="highlight">jederzeit</span> zu den Öffnungszeiten abgegeben werden</h4>
             <p>
             <ul>
-            <li>Schuhe in den Grössen 28&nbsp;-&nbsp;30</li>
+            <li>Schuhe in den Grössen 23&nbsp;-&nbsp;31 (ausser 25)</li>
             <li>T-Shirts in den Grössen 92&nbsp;-&nbsp;170</li>
             <li>Regenkleidung</li>
             <li>Leggins Grössen 92&nbsp;-&nbsp;152</li>
             <li>Pijama Grössen 92&nbsp;-&nbsp;152</li>
-            <li>Lange Hosen in den Grössen 110&nbsp;-&nbsp;134</li>
+            <li>Lange Hosen in den Grössen 92&nbsp;-&nbsp;152</li>
             <li>Pullis und Longshirts in den Grössen 92&nbsp;-&nbsp;152</li>
             <li>Herbströckli in den Grössen 50&nbsp;-&nbsp;152</li>
             <li>Bodys Grössen 62&nbsp;-&nbsp;104</li>
@@ -35,7 +35,7 @@ order: 4
     <div class="col-lg-4 col-sm-10">
         <div class="rounded-2 icon-box d-flex flex-column align-items-center">
             <i class="bi bi-calendar2-check-fill"></i>
-            <h4>Artikel, die <span class="highlight">am 21. Oktober</span> abgegeben werden können</h4>
+            <h4>Artikel, die <span class="highlight">am 11. November</span> abgegeben werden können</h4>
             <p>
             <ul>
             <li>Kinderkleider Grössen 50&nbsp;-&nbsp;176 für Herbst und Winter (grösse 62-74 siehe rechte Spalte</li>
@@ -92,7 +92,7 @@ order: 4
       <p>Grosse Artikel bring bitte nur mit vorheriger Absprache mit uns.
       </p>
       <div class="text-left">
-      <a href="/assets/downloads/Annahmeinformationen_Oktober2023.pdf" class="more-btn">Mehr Informationen <i class="bx bx-chevron-right"></i></a>
+      <a href="/assets/downloads/Annahmeinformationen_November2023.pdf" class="more-btn">Mehr Informationen <i class="bx bx-chevron-right"></i></a>
       </div>
     </div>
 </div>

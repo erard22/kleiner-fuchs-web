@@ -1,16 +1,15 @@
 ---
 layout: news
-title:  Annahmezeiten im Oktober
+title:  Annahmezeiten im November
 images:
   - rosa-kleider.jpeg
   - violetter-eingang.jpeg
 ---
 
-Erst grad haben wir auf Herbstmode umgestellt, da klopft auch schon der Winter an der Tür.
-Die ersten, tollen Wintersachen, kann man schon kaufen bei uns. Kommt vorbei.
+Brr... morgens kann es jetzt schon ganz schön frisch werden. Zeit für wärmere Kleider. 
+Wir haben viele schöne Stücke reinbekommen. Kommt vorbei und sucht euch was hübsches aus.
 
-Im Oktober haben wir einen Annahmetag: __Samstag, 21. Oktober__.
+
+Auch im November haben wir einen Annahmetag: __Samstag, 11. November__.
 
 Es gibt aber auch Ausnahmen. Unter [Artikelannahme](./#artikelannahme) haben wir eine Liste erstellt, wo ersichtlich ist, wann wir welche Artikel annehmen.
-
-Bitte beachtet auch, dass unser Laden am __Mittwoch, 11. Oktober 2023__, für __einen__ Tag geschlossen bleibt.
