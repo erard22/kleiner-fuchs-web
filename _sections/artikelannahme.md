@@ -17,9 +17,12 @@ order: 4
             <li>T-Shirts in den Grössen 92&nbsp;-&nbsp;170</li>
             <li>Regenkleidung</li>
             <li>Handschuhe ab 4 Jahre</li>
+            <li>Leggins & Lange Hosen Grösse 92&nbsp;-&nbsp;152</li>
             <li>Pijama Grössen 92&nbsp;-&nbsp;152</li>
             <li>Pullis und Longshirts in den Grössen 92&nbsp;-&nbsp;152</li>
+            <li>Herbst-& Winterröckli in den Grössen 50&nbsp;-&nbsp;152</li>
             <li>Fasnachtskleider für Kinder</li>
+            <li>Strampler Grösse 50 & 74&nbsp;-&nbsp;92</li>
             <li>Kleidung aus Materialien wie Schurwolle, Wolle-Seide, Merino, etc</li>
             <li>Gesellschaftsspiele</li>
             <li>Wieso, Weshalb, Warum Bücher</li>
@@ -63,7 +66,7 @@ order: 4
         <p>
         <ul>
         <li>Hosen & Longshirts Grösse 62&nbsp;-&nbsp;74</li>
-        <li>Fussach für Kinderwagen</li>
+        <li>Fussack für Kinderwagen</li>
         <li>Schwangerschaftsbekleidung</li>
         <li>Gestrickte Socken, Schuhe & Mützen</li>
         <li>Babywalker (Gehfrei) & Türhopser</li>
