@@ -20,4 +20,4 @@ Es gibt aber auch Ausnahmen, mit Artikel, die wir jederzeit noch nehmen. Diese f
 
 Zu guter letzt noch eine __Vorankündigung__ zu den Öffnungszeiten während den Feiertagen:<br/> 
 Unser Laden macht Ferien während der Altjahrswoche. <br/>
-Konkret vom 7. Dezember bis zum 31. Dezember. __Ab dem 3. Januar 2024 sind wir wieder für euch da.__
+Konkret vom 27. Dezember bis zum 31. Dezember. __Ab dem 3. Januar 2024 sind wir wieder für euch da.__
