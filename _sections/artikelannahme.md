@@ -41,7 +41,6 @@ order: 4
             <p>
             <ul>
             <li>Kinderkleider Grössen 50&nbsp;-&nbsp;176(grösse 62-74 siehe rechte Spalte</li>
-            <li>Teeniekleidung Grösse XS/S</li>
             <li>Guterhaltene Schuhe für Kinder und Teenager</li>
             <li>Kindersportartikel, Outdoorspiele</li>
             <li>Verschiedene Tragehilfen</li>
