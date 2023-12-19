@@ -1,6 +1,6 @@
 ---
 layout: news
-title:  Annahmezeiten im November
+title:  Annahmezeiten im Januar
 images:
   - gutschein.jpeg
   - puppen.jpeg
