@@ -6,20 +6,27 @@ layout: default
 order: 5
 ---
 
-Abgegebene Artikel, welche Flecken oder Löcher haben, welche schon etwas zu stark abgenutzt, etwas verwaschen sind, oder nicht in unser Sortiment passen, sortieren wir aus. Davon kriegt die Kundin ein Foto und kann dann entscheiden, ob sie die Artikel wieder abholen möchte, oder ob sie diese spenden möchten.
+Abgegebene Artikel, welche Flecken oder Löcher haben, welche
+schon etwas zu stark abgenutzt, etwas verwaschen sind, oder
+nicht in unser Sortiment passen, sortieren wir aus.
+Davon erhält die Kundin ein Foto und kann anhand dessen
+entscheiden, ob sie die Artikel wieder abholen möchte, oder ob sie
+diese spenden möchten.
 
-Was passiert mit den gespendeten Artikeln?
+__Was passiert mit den gespendeten Artikeln?__
 
-- werden in Buchsi an Sozialhilfebezügerinnen oder Leute mit tiefem Einkommen abgegeben
-- werden nach Bedarf ins Mutter-Kind-Wohnen in Wiedlisbach abgegeben
-- werden bei der Lebensgemeinschaft Sonnhalde in Wynigen abgegeben
-- Kinderbücher gehen ins Bundesasylzentrum Flumenthal
-- werden in die Kita und ins Tagi vom Kinderhut abgegeben
-- werden in die Brockenstube vom Frauenverein gebracht
-- schlecht erhaltene Textilien gehen in die Kleidersammlung
-- werden von uns gewaschen/geflickt und in der Börse angeboten
-- werden zu sehr günstigen Preisen in der Börse angeboten
-- Milchpumpen, welche nicht zum Verkauf/Weitergabe geeignet sind, werden von uns als Ersatzteillager behalten.
+Wir haben einige Abgabestellen für unsere Spendenartikel
+gefunden:
+
+- Sozialhifebezüger/innen und Menschen mit tiefen Einkommen in und rund um Buchsi
+- Mutter-Kind-Wohnen in Wiedlisbach
+- Tagesschule & Kita Kinderhut in Herzogenbuchsee
+- Brocki vom Frauenverein Herzogenbuchsee
+- Lebensgemeinschaft Sonnhalde Wynigen
+- Bundesasylzentrum Flumenthal
+- Einige Artikel werden von uns gewaschen und/oder geflickt und so zum Verkauf angeboten.
+- Einige Artikel werden bei uns in der Börse zu günstigen Preisen angeboten.
+- Einige Textilien spenden wir der Kleidersammlung, zugunsten der Schweizer Berghilfe.
 
 
 **Du hast eine Idee, wohin wir die Artikel sonst noch spenden können? Dann schreib uns gerne.**

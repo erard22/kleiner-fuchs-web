@@ -7,28 +7,31 @@ order: 4
 ---
 
 <div class="row gy-4 justify-content-center">  
+
     <div class="col-lg-4 col-sm-10">
         <div class="rounded-2 icon-box d-flex flex-column align-items-center">
             <i class="bi bi-bag-heart-fill"></i>
             <h4>Diese Artikel können <span class="highlight">jederzeit</span> zu den Öffnungszeiten abgegeben werden</h4>
             <p>
             <ul>
-            <li>Schuhe in den Grössen 23&nbsp;-&nbsp;31 (ausser 25)</li>
-            <li>T-Shirts in den Grössen 92&nbsp;-&nbsp;170</li>
+            <li>Winterjacken, -dress und -hosen ab Grösse 110</li>
+            <li>Winterschuhe in den Grössen 18&nbsp;-&nbsp;21 und 26&nbsp;-&nbsp;31</li>
+            <li>T-Shirts in den Grössen 92&nbsp;-&nbsp;176</li>
             <li>Regenkleidung</li>
             <li>Handschuhe ab 4 Jahre</li>
-            <li>Leggins & Lange Hosen Grösse 92&nbsp;-&nbsp;152</li>
-            <li>Pijama Grössen 92&nbsp;-&nbsp;152</li>
-            <li>Pullis und Longshirts in den Grössen 92&nbsp;-&nbsp;152</li>
-            <li>Herbst-& Winterröckli in den Grössen 50&nbsp;-&nbsp;152</li>
+            <li>Leggins & lange Hosen Grössen 92&nbsp;-&nbsp;176</li>
+            <li>Pijama Grössen 74&nbsp;-&nbsp;176</li>
+            <li>Pullis und Longshirts in den Grössen 92&nbsp;-&nbsp;176</li>
+            <li>Röckli in den Grössen 92&nbsp;-&nbsp;152</li>
+            <li>Schlafsack 56&nbsp;-&nbsp;110</li>
             <li>Fasnachtskleider für Kinder</li>
-            <li>Strampler Grösse 50 & 74&nbsp;-&nbsp;92</li>
-            <li>Kleidung aus Materialien wie Schurwolle, Wolle-Seide, Merino, etc</li>
+            <li>Strampler Grösse 44,50 & 74&nbsp;-&nbsp;104</li>
+            <li>Kleidung aus Schurwolle, Wolle-Seide, Merino, etc</li>
             <li>Gesellschaftsspiele</li>
             <li>Wieso, Weshalb, Warum Bücher</li>
             <li>Karton- und Bilderbücher</li>
-            <li>Kinder CD's</li>
-            <li>Tonies</li>
+            <li>Tiptoi-Bücher</li>
+            <li>Tonies & Kinder CD's</li>
             </ul>
             </p>
         </div>
@@ -40,19 +43,17 @@ order: 4
             <h4>Artikel, die <span class="highlight">am 06. Januar 2024</span> abgegeben werden können</h4>
             <p>
             <ul>
-            <li>Kinderkleider Grössen 50&nbsp;-&nbsp;176(grösse 62-74 siehe rechte Spalte</li>
+            <li>Kinderkleider Grössen 50&nbsp;-&nbsp;176 (grösse 56-74 siehe rechte Spalte</li>
             <li>Guterhaltene Schuhe für Kinder und Teenager</li>
             <li>Kindersportartikel, Outdoorspiele</li>
             <li>Verschiedene Tragehilfen</li>
             <li>Spielsachen, Gesellschaftsspiele</li>
             <li>Lego, Playmobil & Schleich</li>
             <li>Game-Konsolen, Games</li>
-            <li>Kinder- und Teenieschmuck & Uhren</li>
             <li>Bastelmaterial, Stoff & Nähzubehör</li>
             <li>Absperrgitter, Hochstühle & Zubehör</li>
             <li>Dondolo, Babywippen & Buggys</li>
-            <li>Buggy, Fahrräder und diverse Fahrzeuge</li>
-            <li>Sonstige Baby- und Kinderartikel</li>
+            <li>Fahrräder und andere Fahrzeuge</li>
             </ul>
             </p>
         </div>
@@ -64,7 +65,7 @@ order: 4
         <h4>Artikel, die wir <span class="highlight">aktuell</span> nicht annehmen<br/><br/></h4>
         <p>
         <ul>
-        <li>Hosen & Longshirts Grösse 62&nbsp;-&nbsp;74</li>
+        <li>Hosen & Pullies und T-Shorts Grössen 56&nbsp;-&nbsp;74</li>
         <li>Fussack für Kinderwagen</li>
         <li>Schwangerschaftsbekleidung</li>
         <li>Gestrickte Socken, Schuhe & Mützen</li>
