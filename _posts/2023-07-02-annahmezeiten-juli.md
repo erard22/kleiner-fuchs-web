@@ -17,7 +17,3 @@ weil wir einfach noch zu viel davon haben. Das finden findet ihr schade, aber au
 Deshalb haben wir uns entschlossen, in diesem Jahr keinen Annahmetag mehr zu machen. 
 
 Es gibt aber auch Ausnahmen, mit Artikel, die wir jederzeit noch nehmen. Diese findet ihr hier: [Artikelannahme](./#artikelannahme)
-
-Zu guter letzt noch eine __Vorankündigung__ zu den Öffnungszeiten während den Feiertagen:<br/> 
-Unser Laden macht Ferien während der Altjahrswoche. <br/>
-Konkret vom 27. Dezember bis zum 31. Dezember. __Ab dem 3. Januar 2024 sind wir wieder für euch da.__
