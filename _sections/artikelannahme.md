@@ -6,94 +6,16 @@ layout: default
 order: 4
 ---
 
-<div class="row gy-4 justify-content-center">  
+Wir haben in letzter Zeit sehr viele und tolle Sachen bekommen.
+Und weil unser Lager noch prall gefüllt ist, haben wir uns entschieden,
+unser System anzupassen: **Weg von Annahmetagen, hin zu einer Liste mit gesuchten Artikeln**.
 
-    <div class="col-lg-4 col-sm-10">
-        <div class="rounded-2 icon-box d-flex flex-column align-items-center">
-            <i class="bi bi-bag-heart-fill"></i>
-            <h4>Diese Artikel können <span class="highlight">jederzeit</span> zu den Öffnungszeiten abgegeben werden</h4>
-            <p>
-            <ul>
-            <li>Winterjacken, -dress und -hosen ab Grösse 110</li>
-            <li>Winterschuhe in den Grössen 18&nbsp;-&nbsp;21 und 26&nbsp;-&nbsp;31</li>
-            <li>T-Shirts in den Grössen 92&nbsp;-&nbsp;176</li>
-            <li>Regenkleidung</li>
-            <li>Handschuhe ab 4 Jahre</li>
-            <li>Leggins & lange Hosen Grössen 92&nbsp;-&nbsp;176</li>
-            <li>Pijama Grössen 74&nbsp;-&nbsp;176</li>
-            <li>Pullis und Longshirts in den Grössen 92&nbsp;-&nbsp;176</li>
-            <li>Röckli in den Grössen 92&nbsp;-&nbsp;152</li>
-            <li>Schlafsack 56&nbsp;-&nbsp;110</li>
-            <li>Fasnachtskleider für Kinder</li>
-            <li>Strampler Grösse 44,50 & 74&nbsp;-&nbsp;104</li>
-            <li>Kleidung aus Schurwolle, Wolle-Seide, Merino, etc</li>
-            <li>Gesellschaftsspiele</li>
-            <li>Wieso, Weshalb, Warum Bücher</li>
-            <li>Karton- und Bilderbücher</li>
-            <li>Tiptoi-Bücher</li>
-            <li>Tonies & Kinder CD's</li>
-            </ul>
-            </p>
-        </div>
-    </div>
+Folgende Liste zeigt euch alle Artikel, die wir besonders suchen.
+Diese können zu den Ladenöffnungszeiten abgegeben werden.
 
-    <div class="col-lg-4 col-sm-10">
-        <div class="rounded-2 icon-box d-flex flex-column align-items-center">
-            <i class="bi bi-calendar2-check-fill"></i>
-            <h4>Artikel, die <span class="highlight">am 06. Januar 2024</span> abgegeben werden können</h4>
-            <p>
-            <ul>
-            <li>Kinderkleider Grössen 50&nbsp;-&nbsp;176 (grösse 56-74 siehe rechte Spalte</li>
-            <li>Guterhaltene Schuhe für Kinder und Teenager</li>
-            <li>Kindersportartikel, Outdoorspiele</li>
-            <li>Verschiedene Tragehilfen</li>
-            <li>Spielsachen, Gesellschaftsspiele</li>
-            <li>Lego, Playmobil & Schleich</li>
-            <li>Game-Konsolen, Games</li>
-            <li>Bastelmaterial, Stoff & Nähzubehör</li>
-            <li>Absperrgitter, Hochstühle & Zubehör</li>
-            <li>Dondolo, Babywippen & Buggys</li>
-            <li>Fahrräder und andere Fahrzeuge</li>
-            </ul>
-            </p>
-        </div>
-    </div>
+Andere Artikel nehmen wir nur in Absprache an.
 
-    <div class="col-lg-4 col-sm-10">
-        <div class="rounded-2 icon-box d-flex flex-column align-items-center">
-        <i class="bi bi-cart-x-fill"></i>
-        <h4>Artikel, die wir <span class="highlight">aktuell</span> nicht annehmen<br/><br/></h4>
-        <p>
-        <ul>
-        <li>Hosen & Pullies und T-Shorts Grössen 56&nbsp;-&nbsp;74</li>
-        <li>Fussack für Kinderwagen</li>
-        <li>Schwangerschaftsbekleidung</li>
-        <li>Gestrickte Socken, Schuhe & Mützen</li>
-        <li>Babywalker (Gehfrei) & Türhopser</li>
-        <li>Kindersitze und Maxi Cosi</li>
-        <li>Windeleimer</li>
-        <li>Werbeartikel</li>
-        <li>Kassetten & Videokassetten</li>
-        <li>Ski & Skischuhe</li>
-        <li>Unvollständige, schmutzige, defekte oder schlecht erhaltene Artikel</li>
-        </ul>
-        </p>
-    </div>
-</div>
+<a class="btn-download" href="/assets/downloads/GesuchteArtikel_20240122.pdf" target="_blank">Gesuchte Artikel</a>
 
-<div class="row gy-4 justify-content-center">  
-  <div class="col-lg-8 col-md-10 col-sm-10 rounded-2 artikelannahme-box">
-      <h3>Allgemeine Informationen</h3>
-      <p>
-      Pro Abgabe bring bitte maximal 2 Taschen (Papiertaschen Grösse), grössere Artikel gelten als 1 Tasche. 
-      </p>
-      <p>Wir nehmen nur saubere (gewaschene), intakte und vollständige Artikel an. 
-      </p>
-      <p>Grosse Artikel bring bitte nur mit vorheriger Absprache mit uns.
-      </p>
-      <div class="text-left">
-      <a href="/assets/downloads/Annahmeinformationen_Dezember2023.pdf" class="more-btn">Mehr Informationen <i class="bx bx-chevron-right"></i></a>
-      </div>
-    </div>
-</div>
+*Letzte Aktualisierung: 22.01.2024*
 

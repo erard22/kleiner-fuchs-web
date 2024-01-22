@@ -1,19 +1,15 @@
 ---
 layout: news
-title:  Annahmezeiten im Januar
+title:  Liste mit gesuchten Artikeln
 images:
   - gutschein.jpeg
   - puppen.jpeg
 ---
 
-Die ersten Schneeflocken sind bis zu uns gekommen. 
-Jetzt wird es Zeit für warme Kleider, Handschuhe oder schöne Mützen.
-Vieles davon findet man bei uns im Laden.
+Wir haben in letzter Zeit sehr viele und tolle Sachen bekommen.
+Und weil unser Lager noch prall gefüllt ist, haben wir uns entschieden,
+unser System anzupassen: **Weg von Annahmetagen, hin zu einer Liste mit gesuchten Artikeln**.
 
-Nächster Annahmetag: __Samstag, 06. Januar 2024__.
+<a href="/assets/downloads/GesuchteArtikel_20240122.pdf" target="_blank">Gesuchte Artikel</a>
 
-Wir haben noch sehr viele Artikel an Lager und mussten immer mehr schöne Sachen ablehnen, 
-weil wir einfach noch zu viel davon haben. Das finden findet ihr schade, aber auch wir.
-Deshalb haben wir uns entschlossen, in diesem Jahr keinen Annahmetag mehr zu machen. 
-
-Es gibt aber auch Ausnahmen, mit Artikel, die wir jederzeit noch nehmen. Diese findet ihr hier: [Artikelannahme](./#artikelannahme)
+Diese können immer zu den Ladenöffnungszeiten abgegeben werden.
