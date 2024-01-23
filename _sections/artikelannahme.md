@@ -6,14 +6,13 @@ layout: default
 order: 4
 ---
 
-Wir haben in letzter Zeit sehr viele und tolle Sachen bekommen.
-Und weil unser Lager noch prall gefüllt ist, haben wir uns entschieden,
-unser System anzupassen: **Weg von Annahmetagen, hin zu einer Liste mit gesuchten Artikeln**.
+Wir haben bei den letzten Annahmetagen viele und tolle Sachen erhalten.
+Da unser Lager noch prall gefüllt ist, haben wir uns nun entschieden, unser Annahmesystem anzupassen:
 
-Folgende Liste zeigt euch alle Artikel, die wir besonders suchen.
-Diese können zu den Ladenöffnungszeiten abgegeben werden.
+**Weg von Annahmetagen, hin zu einer Liste mit gesuchten Artikeln.**
 
-Andere Artikel nehmen wir nur in Absprache an.
+Diese können jeweils, in maximal zwei Papiertaschen zu den Ladenöffnungszeiten abgegeben werden.
+Bei grösseren Artiklen bitten wir, um eine kurze Rücksprache mit uns.
 
 <a class="btn-download" href="/assets/downloads/GesuchteArtikel_20240122.pdf" target="_blank">Gesuchte Artikel</a>
 
