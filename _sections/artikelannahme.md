@@ -14,7 +14,7 @@ Da unser Lager noch prall gefüllt ist, haben wir uns nun entschieden, unser Ann
 Diese können jeweils, in maximal zwei Papiertaschen zu den Ladenöffnungszeiten abgegeben werden.
 Bei grösseren Artiklen bitten wir, um eine kurze Rücksprache mit uns.
 
-<a class="btn-download" href="/assets/downloads/GesuchteArtikel_20240226.pdf" target="_blank">Gesuchte Artikel</a>
+<a class="btn-download" href="/assets/downloads/GesuchteArtikel_20240326.pdf" target="_blank">Gesuchte Artikel</a>
 
 *Letzte Aktualisierung: 26.02.2024*
 
