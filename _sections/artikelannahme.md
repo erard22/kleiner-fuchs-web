@@ -18,3 +18,19 @@ Bei grösseren Artiklen bitten wir, um eine kurze Rücksprache mit uns.
 
 *Letzte Aktualisierung: 01.05.2024*
 
+
+
+Aber es gibt auch Artikel, die wir **nicht** annehmen: 
+
+Schmutzige, defekte und unvollständige Artikel<br/>
+Milchpumpe<br/>
+Unterhosen & Socken<br/>
+Ski/Snowboard<br/>
+Windeleimer<br/>
+Schulrucksäcke<br/>
+Autositze<br/>
+Gehfrei und Türhopser<br/>
+kleidung ohne Grössenetikett<br/>
+Gratisartikel/Werbeartikel<br/>
+Grössere Möbel<br/>
+Babybetten<br/>

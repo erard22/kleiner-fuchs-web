@@ -888,6 +888,12 @@ section {
     margin-bottom: 15px;
 }
 
+.oeffnungszeiten em {
+    font-style: italic;
+    font-size: 0.8em;
+    color: rgba(33, 37, 41, 0.7);
+}
+
 @media (max-width: 575px) {
     .oeffnungszeiten-table {
         font-size: 0.85em;

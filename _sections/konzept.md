@@ -11,4 +11,7 @@ order: 8
     <div class="col-md-auto">
         <img src="assets/img/konzept.png" class="konzept-img" />
     </div>
+    <div class="col-md-auto">
+        Genauere Informationen zum Ablauf findet ihr in unseren <a href="assets/downloads/{{site.agb}}" target="_blank">Allgemeine Geschäftsbedingungen (AGBs)</a>
+    </div>
 </div>
