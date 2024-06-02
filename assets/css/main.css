@@ -840,11 +840,18 @@ section {
     color: rgba(33, 37, 41, 0.7);
 }
 
+.artikelannahme h3 {
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
 
 /*--------------------------------------------------------------
-# Spendenartikel Section
+# aussortiert Section
 --------------------------------------------------------------*/
-.spendenartikel li {
+.aussortiert li {
     margin-left: 2em;
 }
 
