@@ -1,19 +1,19 @@
 ---
 layout: news
-title:  Liste mit gesuchten Artikeln
+title:  Sommer, Sonne, Sonnenschein...
 images:
   - gutschein.jpeg
   - puppen.jpeg
 ---
 
-Der April ist vorbei, jetzt hoffen wir auf beständiges Wetter. 
-Wir haben viele schöne Sachen für das warme Wetter für euch vorbereitet.
+Der Sommer steht vor der Türe und wir haben viel Sommerkleidung, die neue Besitzer sucht.
 
-**Kommt und schaut rein** 
+Wir erhalten jede Woche viel neue Kleidung, Schuhe und allerlei rund um Babys und Kinder.
+Daher lohnt sich ein Besuch bei uns im kleinen Fuchs jederzeit.
 
-Auch unsere Liste mit den gesuchten Artikeln haben wir überarbeitet:
+Die Liste mit den <a href="/assets/downloads/GesuchteArtikel_20240601.pdf" target="_blank">gesuchten Artikel</a> für den Juni ist nun online.
 
-<a href="/assets/downloads/GesuchteArtikel_20240501.pdf" target="_blank">Gesuchte Artikel</a>
+Ihr könnt zu unseren Öffnungszeiten maximal 2 Papiertaschen pro Abgabe vorbeibringen.
 
-Diese können jeweils, in maximal zwei Papiertaschen zu den Ladenöffnungszeiten abgegeben werden.
-Bei grösseren Artiklen bitten wir, um eine kurze Rücksprache mit uns.
+
+

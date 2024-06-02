@@ -9,9 +9,9 @@ order: 4
 ### Sommersaison
 
 
-<a class="btn-download" href="/assets/downloads/GesuchteArtikel_20240501.pdf" target="_blank">Gesuchte Artikel</a>
+<a class="btn-download" href="/assets/downloads/GesuchteArtikel_20240601.pdf" target="_blank">Gesuchte Artikel</a>
 
-*Letzte Aktualisierung: 01.05.2024*
+*Letzte Aktualisierung: 01.06.2024*
 
 
 Diese können jeweils, in maximal zwei Papiertaschen zu den Ladenöffnungszeiten abgegeben werden.
