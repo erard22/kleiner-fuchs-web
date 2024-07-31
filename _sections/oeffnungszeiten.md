@@ -36,8 +36,8 @@ order: 5
 </div>
 <div class="row justify-content-md-center" style="padding-top: 2em">
     <div class="text-center">
-    <h3>Sommerferien 2024</h3>
-    <p>Vom 7. Juli bis 21. Juli 2024 bleib der kleine Fuchs geschlossen.</p>
+    <h3>Herbstferien 2024</h3>
+    <p>Vom 02. bis 05. Oktober bleibt der kleine Fuchs geschlossen.</p>
 
     <p>Ausserhalb der Öffnungszeiten sind wir via E-Mail erreichbar: <a href="mailto:kinderboerse.kleinerfuchs@gmail.com">kinderboerse.kleinerfuchs@gmail.com</a></p>
     <p>

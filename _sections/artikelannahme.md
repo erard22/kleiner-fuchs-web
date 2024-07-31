@@ -6,16 +6,16 @@ layout: default
 order: 4
 ---
 
-### Sommersaison
+### Ab August
 
 
-<a class="btn-download" href="/assets/downloads/GesuchteArtikel_20240601.pdf" target="_blank">Gesuchte Artikel</a>
+<a class="btn-download" href="/assets/downloads/{{site.gesuchteArtikelListe}}" target="_blank">Gesuchte Artikel</a>
 
-*Letzte Aktualisierung: 01.06.2024*
+*Letzte Aktualisierung: {{site.gesuchteArtikelLetzteAnpassung}}*
 
 
 Diese können jeweils, in maximal zwei Papiertaschen zu den Ladenöffnungszeiten abgegeben werden.
-Bei grösseren Artiklen bitten wir, um eine kurze Rücksprache mit uns.
+Bei grösseren Artikeln bitten wir, um eine kurze Rücksprache mit uns.
 
 
 
@@ -24,14 +24,17 @@ Bei grösseren Artiklen bitten wir, um eine kurze Rücksprache mit uns.
 Aber es gibt auch Artikel, die wir **nicht** annehmen: 
 
 Schmutzige, defekte und unvollständige Artikel<br/>
-Milchpumpe<br/>
+Kleidung ohne Grössenetikett<br/>
+Gratis- & Werbeartikel<br/>
 Unterhosen & Socken<br/>
-Ski/Snowboard<br/>
+Bettwäsche & Bettlaken<br/>
+Grosse Möbelstücke<br/>
+Gehfrei & Türhopser<br/>
+Kombikinderwagen<br/>
+Ski & Snowboard<br/>
+Schulrucksack<br/>
+Milchpumpe<br/>
 Windeleimer<br/>
-Schulrucksäcke<br/>
-Autositze<br/>
-Gehfrei und Türhopser<br/>
-kleidung ohne Grössenetikett<br/>
-Gratisartikel/Werbeartikel<br/>
-Grössere Möbel<br/>
 Babybetten<br/>
+Autositze<br/>
+DVD<br/>
