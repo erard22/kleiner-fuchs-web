@@ -6,7 +6,7 @@ images:
   - puppen.jpeg
 ---
 
-Der Sommer steht vor der Türe und wir haben viel Sommerkleidung, die neue Besitzer sucht.
+Der Sommer neigt sich dem Ende zu, bald kommen die kühleren Tage.
 
 Wir erhalten jede Woche viel neue Kleidung, Schuhe und allerlei rund um Babys und Kinder.
 Daher lohnt sich ein Besuch bei uns im kleinen Fuchs jederzeit.
