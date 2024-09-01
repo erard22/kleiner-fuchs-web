@@ -6,7 +6,7 @@ layout: default
 order: 4
 ---
 
-### Ab August
+### Ab September
 
 
 <a class="btn-download" href="/assets/downloads/{{site.gesuchteArtikelListe}}" target="_blank">Gesuchte Artikel</a>
