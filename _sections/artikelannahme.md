@@ -6,8 +6,6 @@ layout: default
 order: 4
 ---
 
-### Annahme-Stop zwischen dem 09. bis 19. Oktober 2024
-
 <a class="btn-download" href="/assets/downloads/{{site.gesuchteArtikelListe}}" target="_blank">Gesuchte Artikel</a>
 
 *Letzte Aktualisierung: {{site.gesuchteArtikelLetzteAnpassung}}*
