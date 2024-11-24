@@ -36,6 +36,9 @@ order: 5
 </div>
 <div class="row justify-content-md-center" style="padding-top: 2em">
     <div class="text-center">
+    <h3>Weihnachtsferien 2024</h3>
+    <p>Vom 16. Dezember 2024 bis num 06. Januar 2025 bleibt der kleine Fuchs geschlossen.</p>
+
     <p>Ausserhalb der Öffnungszeiten sind wir via E-Mail erreichbar: <a href="mailto:kinderboerse.kleinerfuchs@gmail.com">kinderboerse.kleinerfuchs@gmail.com</a></p>
     <p>
     Während den Ferien können spezielle Öffnungszeiten gelten.<br/>Diese werden auf der Webseite, auf Instagram und Facebook rechtzeitig publiziert.
