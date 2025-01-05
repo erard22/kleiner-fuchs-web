@@ -2,6 +2,7 @@
 layout: news
 title:  Auf ins 3. Jahr mit unserem kleinen Fuchs
 images:
+  - 2jahrejubi.jpeg
   - gutschein.jpeg
   - puppen.jpeg
 ---
