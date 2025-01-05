@@ -17,7 +17,7 @@ __Was passiert mit den Artikeln, die nicht abgeholt werden?__
 Wir haben einige Abgabestellen gefunden:
 
 - Sozialhifebezüger/innen und Menschen mit tiefen Einkommen in und rund um Buchsi
-- Ostmission
+- Christliche Ostmission
 - Diverse Kita`s und Tagesschulen
 - Heilsarmee Brockenstube Huttwil
 - Einige Artikel werden von uns gewaschen und/oder geflickt und so zum Verkauf  angeboten

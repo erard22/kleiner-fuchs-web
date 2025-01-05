@@ -11,12 +11,8 @@ order: 4
 *Letzte Aktualisierung: {{site.gesuchteArtikelLetzteAnpassung}}*
 
 
-Diese können jeweils, in maximal zwei Papiertaschen zu den Ladenöffnungszeiten abgegeben werden.
+Diese können in Papiertaschen zu den Ladenöffnungszeiten abgegeben werden.
 Bei grösseren Artikeln bitten wir, um eine kurze Rücksprache mit uns.
-
-
-
-
 
 Aber es gibt auch Artikel, die wir **nicht** annehmen: 
 
@@ -28,10 +24,10 @@ Bettwäsche & Bettlaken<br/>
 Grosse Möbelstücke<br/>
 Gehfrei & Türhopser<br/>
 Kombikinderwagen<br/>
-Ski & Snowboard<br/>
-Schulrucksack<br/>
-Milchpumpe<br/>
+Ski & Snowboards<br/>
+Schulrucksäcke<br/>
+Milchpumpen<br/>
 Windeleimer<br/>
 Babybetten<br/>
 Autositze<br/>
-DVD<br/>
+DVD´s<br/>

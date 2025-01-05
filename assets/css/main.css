@@ -815,6 +815,8 @@ section {
 }
 
 .konzept .konzept-img {
+    max-height: 800px;
+    width: auto;
     color: var(--color-secondary);
     height: auto;
     border-radius: 8px;
