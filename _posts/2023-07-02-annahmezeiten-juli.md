@@ -7,8 +7,8 @@ images:
   - puppen.jpeg
 ---
 
-Die Tage werden länger, die Sonne zeigt sich öfter – Zeit, d
-ie Garderobe aufzufrischen! Entdeckt bei uns frühlingshafte Kinderkleidung zu fairen Preisen. 
+Die Tage werden länger, die Sonne zeigt sich öfter – Zeit, 
+die Garderobe aufzufrischen! Entdeckt bei uns frühlingshafte Kinderkleidung zu fairen Preisen. 
 Ob leichte Jacken, farbenfrohe Shirts oder bequeme Schuhe – hier findet ihr alles, 
 was eure Kleinen für die warme Jahreszeit brauchen. Nachhaltig, 
 preiswert und mit Liebe ausgewählt. Kommt vorbei und stöbert!
