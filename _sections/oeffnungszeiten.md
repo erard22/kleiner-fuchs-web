@@ -37,8 +37,8 @@ order: 5
 <div class="row justify-content-md-center" style="padding-top: 2em">
     <div class="text-center">
 
-    <h3>Ostern 2025</h3>
-    <p>Am 18. & 19. April bleibt der kleine Fuchs geschlossen.</p>
+    <h3>Auffahrt 2025</h3>
+    <p>Am Mittwoch, 28. Mai haben wir normal geöffnet. Donnerstag - Samstag bleibt der kleine Fuchs geschlossen.</p>
 
     <p>Ausserhalb der Öffnungszeiten sind wir via E-Mail erreichbar: <a href="mailto:kinderboerse.kleinerfuchs@gmail.com">kinderboerse.kleinerfuchs@gmail.com</a></p>
     <p>

@@ -26,6 +26,7 @@ Gehfrei & Türhopser<br/>
 Kombikinderwagen<br/>
 Ski & Snowboards<br/>
 Schulrucksäcke<br/>
+Handgestricktes<br/>
 Milchpumpen<br/>
 Windeleimer<br/>
 Babybetten<br/>
