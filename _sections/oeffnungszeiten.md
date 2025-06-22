@@ -37,8 +37,11 @@ order: 5
 <div class="row justify-content-md-center" style="padding-top: 2em">
     <div class="text-center">
 
-    <h3>Auffahrt 2025</h3>
-    <p>Am Mittwoch, 28. Mai haben wir normal geöffnet. Donnerstag - Samstag bleibt der kleine Fuchs geschlossen.</p>
+    <h3>Schulfest</h3>
+    <p>Wir sind beide am Schulfest in Herzogenbuchsee engagiert, deshalb bleibt der kleine Fuchs am Freitag, 27. Juni am Nachmittag geschlossen.</p>
+
+    <h3>Sommerferien</h3>
+    <p>Vom 7. Juli bis zum 20 Juli machen wir Sommerpause. Der kleine Fuchs bleibt in dieser Zeit geschlossen.</p>
 
     <p>Ausserhalb der Öffnungszeiten sind wir via E-Mail erreichbar: <a href="mailto:kinderboerse.kleinerfuchs@gmail.com">kinderboerse.kleinerfuchs@gmail.com</a></p>
     <p>
