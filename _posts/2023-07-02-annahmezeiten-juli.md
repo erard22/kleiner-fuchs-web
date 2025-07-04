@@ -1,14 +1,16 @@
 ---
 layout: news
-title:  Frühlingserwachen im kleinen Fuchs
+title:  Sommerzeit
 images:
   - 2jahrejubi.jpeg
   - gutschein.jpeg
   - puppen.jpeg
 ---
 
-Die Tage werden länger, die Sonne zeigt sich öfter – Zeit, 
-die Garderobe aufzufrischen! Entdeckt bei uns frühlingshafte Kinderkleidung zu fairen Preisen. 
-Ob leichte Jacken, farbenfrohe Shirts oder bequeme Schuhe – hier findet ihr alles, 
-was eure Kleinen für die neue Jahreszeit brauchen. Nachhaltig, 
-preiswert und mit Liebe ausgewählt. Kommt vorbei und stöbert!
+Bei uns im kleinen Fuchs findet ihr gut erhaltene Kinderkleidung: 
+von luftigen Sommerkleidern über Badeshorts bis hin zu Sonnenhüten und Sandalen.
+Nachhaltig, preiswert und mit Liebe ausgewählt. Kommt vorbei und stöbert.
+
+__Ferien:__
+Vom 7. bis zum 20. Juli hat der kleine Fuchs geschlossen.
+Wir freuen uns, euch ab dem 21. Juli, frisch und munter, wieder begrüssen zu dürfen.
