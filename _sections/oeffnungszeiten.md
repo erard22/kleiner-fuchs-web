@@ -37,9 +37,6 @@ order: 5
 <div class="row justify-content-md-center" style="padding-top: 2em">
     <div class="text-center">
 
-    <h3>Sommerferien</h3>
-    <p>Vom 7. Juli bis zum 20 Juli machen wir Sommerpause. Der kleine Fuchs bleibt in dieser Zeit geschlossen.</p>
-
     <h3>Nationalfeiertag</h3>
     <p>Am 1. August bleibt der kleine Fuchs den ganzen Tag geschlossen.</p>
 
