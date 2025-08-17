@@ -1,12 +1,17 @@
 ---
 layout: news
-title:  Sommerzeit
+title:  Herbstzeit
 images:
   - 2jahrejubi.jpeg
   - gutschein.jpeg
   - puppen.jpeg
 ---
 
-Bei uns im kleinen Fuchs findet ihr gut erhaltene Kinderkleidung: 
-von luftigen Sommerkleidern über Badeshorts bis hin zu Sonnenhüten und Sandalen.
-Nachhaltig, preiswert und mit Liebe ausgewählt. Kommt vorbei und stöbert.
+Wir bereiten uns nach und nach auf das Herbstwetter vor. 
+Zuerst finden Pullover Einzug in unseren Laden und später auch wärmere 
+Hosen, Jägglis und Kleider.
+
+<p>
+Nachhaltig, preiswert und mit sorgfalt ausgewählt. 
+Kommt vorbei, wir freuen uns auf euch.
+</p>
