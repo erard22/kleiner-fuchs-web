@@ -11,7 +11,7 @@ order: 4
 *Letzte Aktualisierung: {{site.gesuchteArtikelLetzteAnpassung}}*
 
 
-Diese können in Papiertaschen zu den Ladenöffnungszeiten abgegeben werden.
+Diese können in Taschen (maximal 4) zu den Ladenöffnungszeiten abgegeben werden.
 Bei grösseren Artikeln bitten wir, um eine kurze Rücksprache mit uns.
 
 Aber es gibt auch Artikel, die wir **nicht** annehmen: 
