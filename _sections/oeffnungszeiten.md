@@ -37,10 +37,6 @@ order: 5
 <div class="row justify-content-md-center" style="padding-top: 2em">
     <div class="text-center">
 
-    <h3>Herbstferien</h3>
-    <p>Ab Samstag, 20. September bis Sonntag, 5. Oktober bleibt der kleine Fuchs geschlossen. <br/><br/>
-    Am 17. Oktober bleibt der kleine Fuchs am <b>Vormittag</b> geschlossen.</p>
-
     <p>Ausserhalb der Öffnungszeiten sind wir via E-Mail erreichbar: <a href="mailto:kinderboerse.kleinerfuchs@gmail.com">kinderboerse.kleinerfuchs@gmail.com</a></p>
     <p>
     Während den Ferien können spezielle Öffnungszeiten gelten.<br/>Diese werden auf der Webseite, auf Instagram und Facebook rechtzeitig publiziert.
