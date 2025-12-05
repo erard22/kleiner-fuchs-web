@@ -1,10 +1,9 @@
 ---
 layout: news
-title:  Winterzauber ❄️
+title:  ❄️Winterzauber ❄️
 images:
   - gutschein.jpeg
   - puppen.jpeg
-  - herbst.jpeg
 ---
 
 Die kalte Jahreszeit beginnt – Zeit für warme Kleidung für kleine Entdecker. 
