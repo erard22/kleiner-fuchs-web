@@ -1,17 +1,19 @@
 ---
 layout: news
-title:  Herbstzeit
+title:  Winterzauber ❄️
 images:
-  - 2jahrejubi.jpeg
   - gutschein.jpeg
   - puppen.jpeg
+  - herbst.jpeg
 ---
 
-Wir bereiten uns nach und nach auf das Herbstwetter vor. 
-Zuerst finden Pullover Einzug in unseren Laden und später auch wärmere 
-Hosen, Jägglis und Kleider.
-
+Die kalte Jahreszeit beginnt – Zeit für warme Kleidung für kleine Entdecker. 
+Damit Kinder gut geschützt und bequem durch den Winter kommen, bieten wir eine große Auswahl an hochwertiger, gut erhaltener Kinderbekleidung zu fairen Preisen.
+In unserer Kinderkleiderbörse findest du unter anderem Winterjacken, Mützen, Handschuhe, 
+Schneeanzüge und robuste Schuhe – alles, was Kinder in den kalten Monaten brauchen.
+Ob du neue Lieblingsstücke suchst oder gut erhaltene Kleidung weitergeben möchtest – bei uns bekommen Winteroutfits ein zweites Leben. 
+Das schont den Geldbeutel und die Umwelt.
 <p>
-Nachhaltig, preiswert und mit sorgfalt ausgewählt. 
-Kommt vorbei, wir freuen uns auf euch.
+Komm vorbei, stöbere in Ruhe und finde passende Kleidung für die kalte Jahreszeit.
+Wir freuen uns auf große und kleine Besucher!
 </p>
