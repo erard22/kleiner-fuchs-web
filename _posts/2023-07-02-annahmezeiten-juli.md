@@ -1,6 +1,6 @@
 ---
 layout: news
-title:  ❄️Winterzauber ❄️
+title:  ❄️ Winterzauber ❄️
 images:
   - gutschein.jpeg
   - puppen.jpeg
