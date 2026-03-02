@@ -1,13 +1,14 @@
 ---
 layout: news
-title:  ❄️ Zauberhaft ins neue Jahr ❄️
+title:  🌷 Frühlingszauber ab März 🌷
 images:
   - gutschein.jpeg
   - puppen.jpeg
 ---
 
-Mit dem Start ins neue Jahr beginnt für die Kinderbörse Kleiner Fuchs zugleich das 4. Geschäftsjahr.
-Wir freuen uns sehr, euch auch weiterhin eine vielfältige Auswahl an gut erhaltener Kinderkleidung, Schuhen und Spielzeugen anbieten zu können – ideal für die kalte Jahreszeit.
-Von kuscheligen Winterjacken und Schneeanzügen über Mützen und Schals bis hin zu robusten Kinderschuhen: Bei uns findest du viele schöne Artikel, die Kinder zuverlässig durch den Winter begleiten.
-Nachhaltig einkaufen, Qualität weitergeben und dabei Lieblingsstücke entdecken – wir freuen uns auf euren Besuch.
-</p>
+Der Frühling ist da – und bei der Kinderbörse startet eine neue, bunte Saison mit vielen frischen Lieblingsstücken.
+Freut euch auf gut erhaltene Kinderkleidung, Schuhe und Spielzeug – perfekt für die Übergangszeit und die ersten warmen Tage. Von leichten Jacken über fröhliche Outfits bis zu Turnschuhen und Gummistiefeln ist alles dabei.
+
+🌼 __Frühjahrsartikel gesucht!__
+Bringt ab sofort eure gut erhaltenen Frühlings- und Sommerartikel vorbei. Bitte beachtet vorab unsere aktualisierte Annahmeliste.
+Wir freuen uns auf euren Besuch und eine sonnige Saison mit euch!

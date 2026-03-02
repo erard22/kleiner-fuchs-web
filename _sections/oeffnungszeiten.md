@@ -36,8 +36,8 @@ order: 5
 </div>
 <div class="row justify-content-md-center" style="padding-top: 2em">
     <div class="text-center">
-    <h3>Sportferien</h3>
-    <p>Der kleine Fuchs bleibt vom 16.02.2026 bis 22.02.2026 geschlossen.</p>
+    <!--h3>Sportferien</h3>
+    <p>Der kleine Fuchs bleibt vom 16.02.2026 bis 22.02.2026 geschlossen.</p-->
 
     <p>Ausserhalb der Öffnungszeiten sind wir via E-Mail erreichbar: <a href="mailto:kinderboerse.kleinerfuchs@gmail.com">kinderboerse.kleinerfuchs@gmail.com</a></p>
     <p>
